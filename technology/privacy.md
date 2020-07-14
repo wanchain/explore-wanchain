@@ -1,0 +1,3 @@
+# Privacy Protection
+
+Wanchain supports private transactions based on ring signatures, the same privacy algorithm powering other popular private cryptocurrencies such as Monero. This is an essential functionality for many business use cases such as private wealth management, salary issuance, and many more. If you would like to send a private transaction using the Wanchain official GUI wallet, you can find the instructions [here](wallet_and_tools/wallet-install?id=private-transactions). If you are a developer and would like to build private transactions into your app or would just like to know how to send private transactions using the CLI, please navigate to our [developer portal](https://wandevs.org/).

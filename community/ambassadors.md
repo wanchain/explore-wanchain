@@ -44,7 +44,7 @@ We want to begin to formally recognize members of Wanchain’s online community 
 
 ## How to Apply
 
-Interested in joining us? [Please submit an application here](https://forms.office.com/Pages/ResponsePage.aspx?id=VPnN3XSIEEqLYwFUDjqIlhDN00eQ8opLu9Rbjur15g5UMDlNWVdBTzJGNEU0OExaT0dFTklGMVlXNS4u). The team will review your application and reach out to you to set up a phone call if we’d like to move you to the next step. We are excited to meet you!
+Interested in joining us? [Please submit an application here](https://forms.gle/U95ot1nRvjcHxY726). The team will review your application and reach out to you to set up a phone call if we’d like to move you to the next step. We are excited to meet you!
 
 ### FAQ
 

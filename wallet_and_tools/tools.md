@@ -19,9 +19,7 @@
 [Tokenview](https://wan.tokenview.com/en/) *- Tokenview built Wanchain explorer*     
 [Wanchain.Guide](http://wanchain.guide/) *- Community built Wanchain wallet and staking guide*   
 [Wanscan (Testnet)](http://testnet.wanscan.org/)   
-[WanFaucet](https://wanfaucet.net/)  
 [Wanstats](http://wanstats.io/) *- Network statistics*    
 [Wanstats (Testnet)](http://testnet.wanstats.io/) *- Network statistics*    
-[Staking Calculator](http://calculator.wandevs.org/) *- A calculator for estimating wanchain PoS rewards*  
 [WanStakeInsight](https://www.wanstakeinsight.com) *- A staking explorer built by community member [Cryptofennec](https://www.cryptofennec.com/)*
 

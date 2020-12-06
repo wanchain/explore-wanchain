@@ -25,9 +25,8 @@
   - [Galaxy Consensus](technology/galaxy-consensus.md "Wanchain - Galaxy Consensus") 
   - [WanBridge](technology/wanbridge.md "Wanchain - WanBridge")
   
-- Crosschain Guides
-  - 
-
+- Cross-chain guides
+  
 - Staking
   - [Important Terms and Parameters](staking/parameters.md)
   - [Recommended Specs](staking/environment.md)

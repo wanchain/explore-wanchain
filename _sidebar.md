@@ -26,6 +26,8 @@
   - [WanBridge](technology/wanbridge.md "Wanchain - WanBridge")
   
 - Cross-chain guides
+  - [Cross-chain transfer BTC](technology/btccrosschain.md) 
+  
   
 - Staking
   - [Important Terms and Parameters](staking/parameters.md)

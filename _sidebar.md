@@ -28,7 +28,7 @@
 - Guides
   - [Cross-chain transfer BTC](guides/btccrosschain.md) 
   - [WanBridge](guides/wanbridge.md "Wanchain - WanBridge")
-  - [WanMask](guides/wanmask.md "Wanchain - WanMask)
+  - [WanMask](guides/wanmask.md "Wanchain - WanMask")
   
 - Staking
   - [Important Terms and Parameters](staking/parameters.md)

@@ -26,9 +26,9 @@
   
   
 - Guides
-  - [Cross-chain transfer BTC](technology/btccrosschain.md) 
-  - [WanBridge](technology/wanbridge.md "Wanchain - WanBridge")
-  - [WanMask]
+  - [Cross-chain transfer BTC](guides/btccrosschain.md) 
+  - [WanBridge](guides/wanbridge.md "Wanchain - WanBridge")
+  - [WanMask](guides/wanmask.md "Wanchain - WanMask)
   
 - Staking
   - [Important Terms and Parameters](staking/parameters.md)
@@ -43,15 +43,13 @@
   - [Partner Model](staking/partner.md)
   - [Staking FAQ](staking/faq.md)
 
-- EOS Crosschain Guide (Testnet)  
-  - [Testnet EOS Guide](eosguide/eostest.md)
-
-- Staking (Testnet)  
+- Testnet 
   - [Testnet Node Setup](staking-testnet/node-setup-testnet.md)
   - [Get Testnet WAN](staking-testnet/get_test_wan.md)
   - [Testnet Delegation Guide](staking-testnet/delegation-testnet.md)
   - [Beta Test Rewards Program](staking-testnet/rewards_program.md)
   - [Beta Version Changes](staking-testnet/alpha_beta.md)
+  - [Testnet EOS Guide](eosguide/eostest.md)
 
 - Community
 

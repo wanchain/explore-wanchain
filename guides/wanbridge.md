@@ -28,7 +28,7 @@ If you have not installed the WanMask wallet plug-in, install it from [here](htt
 
 Then click “Add to Chrome” to start the installation.
 
-If you are not familiar with WanMask, you can check the [WanMask tutorial](https://www.yuque.com/wanchain/help/gqugqd).
+If you are not familiar with WanMask, you can check the [WanMask tutorial](wanmask.md).
 
 Click the Connect WanMask button;
 
@@ -114,7 +114,7 @@ EURS: 0xdb25f211ab05b1c97d595516f45794528a807ad8
 
 ![](https://cdn-images-1.medium.com/max/2000/1*TyuBlTl5ifNraE9ExYxJAQ.png)
 
-### **5.2 **Add Cross-chain Assets in MetaMask
+### **5.2 **Add Cross-chain Assets in WanMask
 
 * Open WanMask and click “Add Token” at the bottom of the Assets section
 

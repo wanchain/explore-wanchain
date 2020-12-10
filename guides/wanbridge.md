@@ -114,7 +114,7 @@ EURS: 0xdb25f211ab05b1c97d595516f45794528a807ad8
 
 ![](https://cdn-images-1.medium.com/max/2000/1*TyuBlTl5ifNraE9ExYxJAQ.png)
 
-### **5.2 **Add Cross-chain Assets in WanMask
+### **5.2 Add Cross-chain Assets in WanMask**
 
 * Open WanMask and click “Add Token” at the bottom of the Assets section
 

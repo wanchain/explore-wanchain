@@ -2,7 +2,7 @@
 
 How to use WanFarm!
 
-1. **Go to WanFarm and connect your MetaMask wallet**
+**1. Go to WanFarm and connect your MetaMask wallet**
 
 Go to WanFarm using Google Chrome: [https://farm.wanchain.org](https://farm.wanchain.org).
 

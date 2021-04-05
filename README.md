@@ -26,20 +26,20 @@ Our vision is a world where assets can flow freely between blockchains without a
 |✓ Desktop & Mobile DApp Stores | Q2 2020  | New & Completed| 
 |✓ Support ecosystem projects to launch first batch of DeFi DApps on Wanchain | Q2 2020  | New & Completed| 
 |✓ Consensus decentralization – reserved slots released to community| Q2 2020  | New & Completed| 
-|⧗ Wanchain 5.0 testnet launch (including Open Storeman Nodes, Two-way Bridges, fast crosschain transactions, etc.) | Q3 2020  | New & Ongoing| 
-|⧗ Open Storeman Initiative Phase 2: Open more nodes in Foundation created Storeman groups | Q3 2020  | Ongoing| 
-|⧗ Support ecosystem projects to launch next batch of DeFi DApps on Wanchain | Q3 2020  | New & Ongoing| 
-|⧖ Wanchain 5.0 mainnet launch (including Open Storeman Nodes, Two-way Bridges, fast crosschain transactions, etc.) | Q4 2020  | New & Pending| 
-|⧖ Wanchain to Ethereum two-way bridge established | Q4 2020  | Pending|
-|⧖ Wanchain's cross-chain BTC / EOS / WAN, etc. token liquidity supplied to Ethereum | Q4 2020  | Pending| 
-|⧖ Next batch of ERC-20/EOS token integrations released | Q4 2020  | Pending|
-|⧖ Integration with new blockchain | Q4 2020  | Pending|
-|⧖ Wanchain Explorer improvements for DApp development | Q4 2020  | Pending| 
+|⧗ Wanchain 5.0 testnet launch (including Open Storeman Nodes, Two-way Bridges, fast crosschain transactions, etc.) | Q3 2020  | New & Completed| 
+|⧗ Open Storeman Initiative Phase 2: Open more nodes in Foundation created Storeman groups | Q3 2020  | Completed| 
+|⧗ Support ecosystem projects to launch next batch of DeFi DApps on Wanchain | Q3 2020  | New & Completed| 
+|⧖ Wanchain 5.0 mainnet launch (including Open Storeman Nodes, Two-way Bridges, fast crosschain transactions, etc.) | Q4 2020  | New & Completed| 
+|⧖ Wanchain to Ethereum two-way bridge established | Q4 2020  | Completed|
+|⧖ Wanchain's cross-chain BTC / EOS / WAN, etc. token liquidity supplied to Ethereum | Q4 2020  | Completed| 
+|⧖ Next batch of ERC-20/EOS token integrations released | Q4 2020  | Completed|
+|⧖ Integration with new blockchain | Q4 2020  | Completed|
+|⧖ Wanchain Explorer improvements for DApp development | Q4 2020  | Completed| 
 |⧖ Proof of Concept of WASM on Wanchain * | Q4 2020  | Pending| 
-|⧖ Release of Wanchain DApp development toolkit | Q4 2020  | Pending| 
+|⧖ Release of Wanchain DApp development toolkit | Q4 2020  | Completed| 
 |⧖ Proof of Concept of cross-chain integration with Libra or DCEP * | Q4 2020  | Pending| 
 |⧖ Proof of Concept of cross-chain mechanism for NFT * | Q4 2020  | Pending| 
-|⧖ Standards based cross-chain mechanism & infrastructure * | Q4 2020  | Pending| 
+|⧖ Standards based cross-chain mechanism & infrastructure * | Q4 2020  | Completed| 
 
   *Represents low priority items*
 <br>

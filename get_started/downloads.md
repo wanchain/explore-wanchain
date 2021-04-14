@@ -15,12 +15,10 @@
 ## Products
 - [GWAN](https://github.com/wanchain/go-wanchain/releases/)  
 
-- [Wan Wallet (Desktop Versions)](https://www.wanchain.org/getstarted/)
+- [Wan Wallet (Desktop)](https://www.wanchain.org/getstarted/)
 
-- [Wan Wallet (Android APK Direct Download](https://www.wanchain.org/getstarted/)
+- [Wan Wallet (Android APK)](https://www.wanchain.org/getstarted/)
 
-- [Wan Wallet (Android Google Play Store Link](https://www.wanchain.org/getstarted/)
+- [Wan Wallet (Android Google Play)](https://www.wanchain.org/getstarted/)
 
-- [Wan Wallet (iOS HK store)](https://www.wanchain.org/getstarted/)
-
-- [Wan Wallet (iOS US store)](https://www.wanchain.org/getstarted/)
+- [Wan Wallet (iOS)](https://www.wanchain.org/getstarted/)

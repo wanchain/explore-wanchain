@@ -46,6 +46,9 @@
   - [Partner Model](staking/partner.md)
   - [Staking FAQ](staking/faq.md)
 
+- Storeman
+  - [Setup A Storeman Node](storeman/node-setup.md)
+
 - Testnet 
   - [Testnet Node Setup](staking-testnet/node-setup-testnet.md)
   - [Get Testnet WAN](staking-testnet/get_test_wan.md)

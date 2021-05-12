@@ -18,7 +18,9 @@ Step 1) Download & Install Official Wanchain Desktop Wallet
 
 _Make certain your seed phrase is backed up_
 
-<img alt="" class="t u v jj aj" src="https://miro.medium.com/max/4000/0\*f5xa8Qm\_2Wp8\_9lk" width="2000" height="737" srcSet="https://miro.medium.com/max/552/0\*f5xa8Qm\_2Wp8\_9lk 276w, https://miro.medium.com/max/1104/0\*f5xa8Qm\_2Wp8\_9lk 552w, https://miro.medium.com/max/1280/0\*f5xa8Qm\_2Wp8\_9lk 640w, https://miro.medium.com/max/1400/0\*f5xa8Qm\_2Wp8\_9lk 700w" sizes="700px" role="presentation"/>
+<img alt="" class="t u v jj aj" src="https://miro.medium.com/max/875/0*f5xa8Qm_2Wp8_9lk" width="2000" height="737" srcSet="https://miro.medium.com/max/552/0\*f5xa8Qm\_2Wp8\_9lk 276w, https://miro.medium.com/max/1104/0\*f5xa8Qm\_2Wp8\_9lk 552w, https://miro.medium.com/max/1280/0\*f5xa8Qm\_2Wp8\_9lk 640w, https://miro.medium.com/max/1400/0\*f5xa8Qm\_2Wp8\_9lk 700w" sizes="700px" role="presentation"/>
+
+
 
 2\. Storeman Selection
 ======================

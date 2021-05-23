@@ -1,7 +1,11 @@
 ### What is Wanchain?
+
 Wanchain is a public blockchain with support for the development of smart contracts using Solidity. Wanchain supports ring signature based private transactions and decentralized cross chain functionality.
 
-Wanchain's [Storeman node](technology/storeman.md) system uniquely combines  secure multiparty computation, atomic swaps, threshold secret sharing, and decentralized account management to implement a decentralized cross chain solution.
+Wanchain has been building its cross-chain infrastructure since 2017. In early 2021, it launched the world’s 1st decentralized BTC-ETH direct bridge. Wanchain also offers decentralized bridges connecting Bitcoin, Ethereum, Ripple and EOS, with other chains such as Polkadot on the horizon. All of Wanchain’s different cross-chain bridges are supported by unified decentralized collateral pools.
+
+
+Wanchain features two types of validator nodes: PoS validator nodes and Storeman validator nodes. PoS validator nodes use a Proof-of-Stake to achieve decentralised consensus. Storeman validator nodes perform and verify cross-chain transactions.
 
 A developer can write smart contracts, build a DAPP or issue a fungible/non-fungible token on wanchain. 
 

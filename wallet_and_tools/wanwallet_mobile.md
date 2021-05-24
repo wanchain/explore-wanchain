@@ -1,4 +1,4 @@
-# WanWallet Mobile v4.0—The Wanchain 5.0 Mobile Update Has Landed!
+# WanWallet Mobile
 
 The all new mobile WanWallet update for Wanchain 5.0 features a new and improved UI/UX, cross-chain Storeman node delegation and staking features, and an improved cross-chain transaction experience.
 
@@ -13,21 +13,19 @@ The all new mobile WanWallet update for Wanchain 5.0 features a new and improved
 
 ## How to Use Mobile WanWallet
 
-1\. [Download](https://www.wanchain.org/getstarted/) and install
+### [Download](https://www.wanchain.org/getstarted/) and install
 
 Wallet download links can be found on the [Wanchain official website](https://www.wanchain.org/getstarted/), the [Apple app store](https://apps.apple.com/us/app/wanwallet/id1477039507), or the [Google Play store](https://play.google.com/store/apps/details?id=com.wanchain.WanWallet&hl=en_US&gl=US).
 
-2\. Create and/or import wallet
--------------------------------
+### Create and/or import wallet
 
 Simply open the wallet and follow the on screen prompts to create or import your wallet.
 
-<img alt="" class="t u v is aj" src="https://miro.medium.com/max/980/0\*5\_EjOjWgac2ADV4-" width="490" height="926" srcSet="https://miro.medium.com/max/552/0\*5\_EjOjWgac2ADV4- 276w, https://miro.medium.com/max/980/0\*5\_EjOjWgac2ADV4- 490w" sizes="490px" role="presentation"/>
+![](https://miro.medium.com/max/613/0*5_EjOjWgac2ADV4-)
 
 **Note:** _Be certain to write down your mnemonic phrase and store it in a safe place, and to not store it digitally on any network connected device._
 
 3\. New address
----------------
 
 To add a new address, click the “+” icon on the right side of the default address, and set the account name to create a new address.
 

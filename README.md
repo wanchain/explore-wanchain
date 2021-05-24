@@ -18,7 +18,7 @@ Our vision is a world where assets can flow freely between blockchains without a
 
 ## 2021 Plan
 
-- Major upgrade to cross-chain mechanism in order to improve node operator economics and scalability 
+- Major upgrade to cross-chain mechanism in order to improve node operator economics and scalability
 - Wide array of new asset and public blockchain integrations
 - Establish DeFi ecosystem which takes advantage of Wanchain’s cross-chain infrastructure.
 
@@ -34,36 +34,42 @@ Our vision is a world where assets can flow freely between blockchains without a
 - Cross-chain wanBridges secured by trustless staking and delegation mechanism
 - Enables bidirectional asset transfer between Ethereum and Wanchain
 
+### Wanchain 4.0
 
-Wanchain 4.0
-T-Bridge Framework
-T-Bridge framework enables cross-chain connection with private blockchains
-T-Bridge enables the exchanges of assets and data between public and private blockchains
+**T-Bridge Framework**
 
+- T-Bridge framework enables cross-chain connection with private blockchains
+- T-Bridge enables the exchanges of assets and data between public and private blockchains
 
-Galaxy Consensus 03
-Galaxy Consensus Proof of Stake
-Consensus mechanism upgraded to Galaxy Proof of Stake
-Permissionless consensus mechanism based on Ouroboros Proof of Stake
-Trustless & non-custodial delegation mechanism
+### Galaxy Consensus
 
+**Galaxy Consensus Proof of Stake**
 
-Wanchain 3.0 04
-Expansion of cross-chain mechanism to support both BTC and EOS transactions
-Cross-chain transactions with BTC
-Cross-chain transactions with EOS
+- Consensus mechanism upgraded to Galaxy Proof of Stake
+- Permissionless consensus mechanism based on Ouroboros Proof of Stake
+- Trustless & non-custodial delegation mechanism
 
+### Wanchain 3.0
 
-Wanchain 2.0   05
-Storeman group powered Wanchain — Ethereum cross-chain transactions
+**Expansion of cross-chain mechanism to support both BTC and EOS transactions**
 
-Cross-chain transactions with Ethereum
-Permissioned Storeman groups enable cross-chain transactions
+- Cross-chain transactions with BTC
+- Cross-chain transactions with EOS
 
 
-Wanchain 1.0  06
-Mainnet Launch
-Wanchain launches an independent blockchain focused on developing the interoperability and privacy features which are prerequisites for the future of digital finance
-Theoretical blueprints for interoperability features completed
-Features private transactions and smart contracts at launch with work on interoperability features underway
+### Wanchain 2.0
+
+**Storeman group powered Wanchain — Ethereum cross-chain transactions**
+
+-Cross-chain transactions with Ethereum
+-Permissioned Storeman groups enable cross-chain transactions
+
+
+### Wanchain 1.0
+
+**Mainnet Launch**
+
+-Wanchain launches an independent blockchain focused on developing the interoperability and privacy features which are prerequisites for the future of digital finance
+-Theoretical blueprints for interoperability features completed
+-Features private transactions and smart contracts at launch with work on interoperability features underway
 

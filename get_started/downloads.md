@@ -1,11 +1,11 @@
-# Downloads
+# Papers & Products
 
 ## Papers
 - [White Paper](https://www.wanchain.org/files/Wanchain_White_Paper_EN.pdf)  
 
 - [White Paper (Chinese)](https://www.wanchain.org/files/Wanchain_White_Paper_CN.pdf)  
 
-- [Yellow Paper](https://github.com/wanchain/crypto/raw/master/Wanchain%20yellow%20paper%20English%20version.pdf)  
+- [Yellow Paper](https://drive.google.com/file/d/1rJMXDBYk3CX0T_osL2HUC6oBIDM1IRgQ/view?usp=sharing)  
 
 - [Galaxy Consensus Paper](https://www.wanchain.org/files/Galaxy_Consensus_Paper_EN.pdf)
 

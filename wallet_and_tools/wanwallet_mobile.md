@@ -2,7 +2,7 @@
 
 The all new mobile WanWallet update for Wanchain 5.0 features a new and improved UI/UX, cross-chain Storeman node delegation and staking features, and an improved cross-chain transaction experience.
 
-_Note: Development on both the Google Play Android version and the Apple App Store iOS version is complete, however the Apple version is still under revision according to Apple store policies, so is not yet available for download. Stay tuned for updates on the iOS version._
+*Note: Development on both the Google Play Android version and the Apple App Store iOS version is complete, however the Apple version is still under revision according to Apple store policies, so is not yet available for download. Stay tuned for updates on the iOS version.*
 
 ## Key Features
 
@@ -14,7 +14,6 @@ _Note: Development on both the Google Play Android version and the Apple App Sto
 ## How to Use Mobile WanWallet
 
 1\. [Download](https://www.wanchain.org/getstarted/) and install
-----------------------------------------------------------------
 
 Wallet download links can be found on the [Wanchain official website](https://www.wanchain.org/getstarted/), the [Apple app store](https://apps.apple.com/us/app/wanwallet/id1477039507), or the [Google Play store](https://play.google.com/store/apps/details?id=com.wanchain.WanWallet&hl=en_US&gl=US).
 

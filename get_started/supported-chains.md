@@ -48,22 +48,25 @@ Below are the tokens and corresponding smart contracts for which cross chain tra
 [SUSHI (SushiSwap)](https://app.sushi.com/)
 
 - **SUSHI** [0x6b3595068778dd592e39a122f4f5a5cf09c90fe2](https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2)
-- **wanSUSHI** [0x9B6863f6Ab2047069aD1CD15fFf8C45Af637D67c](https://www.wanscan.org/token/0x9b6863f6ab2047069ad1cd15fff8c45af637d67c)
-
-
-
+- **wanSUSHI@Wanchain** [0x9B6863f6Ab2047069aD1CD15fFf8C45Af637D67c](https://www.wanscan.org/token/0x9b6863f6ab2047069ad1cd15fff8c45af637d67c)
 
 [Maker (MKR)](https://makerdao.com/)
 
-- [Dai (DAI)](http://www.makerdao.com/)
+- **MKR** [0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)
+- **wanMKR** [0xa31B67A8cba75EA6CeD8340d8BC0431aB052A4fA](https://www.wanscan.org/token/0xa31b67a8cba75ea6ced8340d8bc0431ab052a4fa)
 
-- [Aurora DAO (AURA)](https://auroradao.com/)
+[Chainlink (LINK)](https://chain.link/)
 
-- [Loopring (LRC)](https://loopring.org/)
+- **LINK** [0x514910771af9ca656af840dff83e8264ecf986ca](https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca)
+-  **wanLINK** [0x06da85475f9D2aE79AF300De474968CD5a4fde61](https://www.wanscan.org/token/0x06da85475f9d2ae79af300de474968cd5a4fde61)
 
-- [Chainlink (LINK)](https://chain.link/)
+[DOGE (Dogecoin) ](https://dogecoin.com)
 
-- [Gemini Dollar (GUSD)](https://gemini.com/dollar/)
+- **DOGE** []()
+- **wanDOGE** [0xD3a33C6fEa7F785DdC0915f6A76919C11AbdED45](https://www.wanscan.org/token/0xd3a33c6fea7f785ddc0915f6a76919c11abded45)
+
+
+
 
 - [USD Coin (USDC)](https://www.centre.io/usdc)
 

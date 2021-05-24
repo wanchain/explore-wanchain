@@ -4,8 +4,8 @@ Below are the tokens for which cross chain transactions are currently supported 
 
 [Bitcoin (BTC)](https://bitcoin.org/en/)
 
-- **wanBTC@Ethereum** [https://etherscan.io/token/0x058a55925627980dbb6d6d39f8dad5de5be16764](0x058a55925627980dbb6d6d39f8dad5de5be16764)
-- **wanBTC@Wanchain** [https://www.wanscan.org/token/0x50c439b6d602297252505a6799d84ea5928bcfb6](0x50c439B6d602297252505a6799d84eA5928bCFb6)
+- **wanBTC@Ethereum** [0x058a55925627980dbb6d6d39f8dad5de5be16764](https://etherscan.io/token/0x058a55925627980dbb6d6d39f8dad5de5be16764)
+- **wanBTC@Wanchain** [0x50c439b6d602297252505a6799d84ea5928bcfb6](https://www.wanscan.org/token/0x50c439b6d602297252505a6799d84ea5928bcfb6)
 
 [Ethereum (ETH)](https://www.ethereum.org/)
 

@@ -36,6 +36,23 @@ Below are the tokens and corresponding smart contracts for which cross chain tra
 - **wanWASP@Ethereum** [0xef5c6a88710a3c857105058f947d249bc490909d](https://etherscan.io/token/0xef5c6a88710a3c857105058f947d249bc490909d)
 - **WASP** [0x8B9F9f4aA70B1B0d586BE8aDFb19c1Ac38e05E9a](https://www.wanscan.org/token/0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a)
 
+[ZOO (ZooKeeper)](https://www.zookeeper.finance/)
+
+- **ZOO** [0x6e11655d6aB3781C6613db8CB1Bc3deE9a7e111F](https://www.wanscan.org/token/0x6e11655d6ab3781c6613db8cb1bc3dee9a7e111f)
+
+[UNI (UniSwap)](http://uniswap.io/)
+
+- **UNI** [0x1f9840a85d5af5bf1d1762f925bdaddc4201f984](https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984)
+- **wanUNI** [0x73Eaa7431B11b1e7A7d5310DE470DE09883529DF](https://www.wanscan.org/token/0x73eaa7431b11b1e7a7d5310de470de09883529df)
+
+[SUSHI (SushiSwap)](https://app.sushi.com/)
+
+- **SUSHI** [0x6b3595068778dd592e39a122f4f5a5cf09c90fe2](https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2)
+- **wanSUSHI** [0x9B6863f6Ab2047069aD1CD15fFf8C45Af637D67c](https://www.wanscan.org/token/0x9b6863f6ab2047069ad1cd15fff8c45af637d67c)
+
+
+
+
 [Maker (MKR)](https://makerdao.com/)
 
 - [Dai (DAI)](http://www.makerdao.com/)

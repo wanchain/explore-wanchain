@@ -62,16 +62,5 @@ Below are the tokens and corresponding smart contracts for which cross chain tra
 
 [DOGE (Dogecoin) ](https://dogecoin.com)
 
-- **DOGE** []()
 - **wanDOGE** [0xD3a33C6fEa7F785DdC0915f6A76919C11AbdED45](https://www.wanscan.org/token/0xd3a33c6fea7f785ddc0915f6a76919c11abded45)
 
-
-
-
-- [USD Coin (USDC)](https://www.centre.io/usdc)
-
-- [TrueUSD (TUSD)](https://www.trusttoken.com/trueusd/)
-
-- [0xcert (ZXC)](https://0xcert.org/)
-
-- [Stasis Euro (EURS)](https://stasis.net/)

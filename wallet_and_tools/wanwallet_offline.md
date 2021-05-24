@@ -6,7 +6,7 @@ The Offline wallet can be used for extra security, and is also required for cert
 
 The v3.0.0 version of the hardware wallet primarily features updates related to the newly added latest features such as the new Storeman node and wanBridge systems.
 
-The wallet may be downloaded from the [Wanchain.org home page](https://www.wanchain.org/getstarted/).
+The wallet may be downloaded from the [Wanchain Website](https://www.wanchain.org/getstarted/).
 
 The Offline wallet does not need to be connected to the Internet to generate valid signed transactions. The user simply fills in all the transaction parameters and then uses their private key to generate a signed transaction offline. The signed transaction may then be sent through a regular online wallet on another machine. The Wanchain desktop wallet supports the sending of transactions generated on the offline wallet.
 

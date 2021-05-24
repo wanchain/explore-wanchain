@@ -1,15 +1,42 @@
 # Supported Tokens
 
-Below are the tokens for which cross chain transactions are currently supported on Wanchain or Ethereum. New tokens are continually added - follow our [Wanchain Blockchain Explorer](https://www.wanscan.org/tokens) to get the latest updates. 
+Below are the tokens and corresponding smart contracts for which cross chain transactions are currently supported on Wanchain or Ethereum. New tokens are continually added - follow our [Wanchain Blockchain Explorer](https://www.wanscan.org/tokens) to get the latest updates. 
 
 [Bitcoin (BTC)](https://bitcoin.org/en/)
 
 - **wanBTC@Ethereum** [0x058a55925627980dbb6d6d39f8dad5de5be16764](https://etherscan.io/token/0x058a55925627980dbb6d6d39f8dad5de5be16764)
-- **wanBTC@Wanchain** [0x50c439b6d602297252505a6799d84ea5928bcfb6](https://www.wanscan.org/token/0x50c439b6d602297252505a6799d84ea5928bcfb6)
+- **wanBTC@Wanchain** [0x50c439B6d602297252505a6799d84eA5928bCFb6](https://www.wanscan.org/token/0x50c439b6d602297252505a6799d84ea5928bcfb6)
 
 [Ethereum (ETH)](https://www.ethereum.org/)
 
-- [Maker (MKR)](https://makerdao.com/)
+- **wanETH@Wanchain** [0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A](https://www.wanscan.org/token/0xe3ae74d1518a76715ab4c7bedf1af73893cd435a)
+
+[XRP Ledger (XRP)](https://xrpl.org/)
+
+- **wanXRP@Ethereum** [0x4917a9a03bdf9be520e0b342da8c3c8787237302](https://etherscan.io/token/0x4917a9a03bdf9be520e0b342da8c3c8787237302)
+- **wanXRP@Wanchain** [0xf665E0e3E75D16466345E1129530ec28839EfaEa](https://www.wanscan.org/token/0xf665e0e3e75d16466345e1129530ec28839efaea)
+
+[EOS (EOSIO)](https://eos.io/)
+
+- **wanEOS@Ethereum** [0x11167f7889ae34e2c6b15c9226d0b320c45d629d](https://etherscan.io/token/0x11167f7889ae34e2c6b15c9226d0b320c45d629d)
+- **wanEOS@Wanchain** [0x81862b7622CEd0DEfB652Addd4e0c110205B0040](https://www.wanscan.org/token/0x81862b7622ced0defb652addd4e0c110205b0040)
+
+[USDT (Tether)](https://tether.to/)
+
+- **USDT** [0xdac17f958d2ee523a2206206994597c13d831ec7](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7)
+- **wanUSDT@Wanchain** [0x11e77E27Af5539872efEd10abaA0b408cfd9fBBD](https://www.wanscan.org/token/0x11e77e27af5539872efed10abaa0b408cfd9fbbd)
+
+[USDC (USD Coin)](https://www.centre.io/usdc)
+
+- **USDC** [0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)
+- **wanUSDC@Wanchain** [0x52A9CEA01c4CBDd669883e41758B8eB8e8E2B34b](https://www.wanscan.org/token/0x52a9cea01c4cbdd669883e41758b8eb8e8e2b34b)
+
+[WASP (WanSwap)](https://www.wanswap.finance/)
+
+- **wanWASP@Ethereum** [0xef5c6a88710a3c857105058f947d249bc490909d](https://etherscan.io/token/0xef5c6a88710a3c857105058f947d249bc490909d)
+- **WASP** [0x8B9F9f4aA70B1B0d586BE8aDFb19c1Ac38e05E9a](https://www.wanscan.org/token/0x8b9f9f4aa70b1b0d586be8adfb19c1ac38e05e9a)
+
+[Maker (MKR)](https://makerdao.com/)
 
 - [Dai (DAI)](http://www.makerdao.com/)
 

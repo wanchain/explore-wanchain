@@ -1,10 +1,13 @@
 # Supported Tokens
 
-Below are the tokens for which cross chain transactions are currently supported on Wanchain. New tokens are continually added - follow our [Twitter](https://twitter.com/wanchain_org) to get the latest updates. 
+Below are the tokens for which cross chain transactions are currently supported on Wanchain or Ethereum. New tokens are continually added - follow our [Wanchain Blockchain Explorer](https://www.wanscan.org/tokens) to get the latest updates. 
 
-- [Bitcoin (BTC)](https://bitcoin.org/en/)
+[Bitcoin (BTC)](https://bitcoin.org/en/)
 
-- [Ethereum (ETH)](https://www.ethereum.org/)
+- **wanBTC@Ethereum** [https://etherscan.io/token/0x058a55925627980dbb6d6d39f8dad5de5be16764](0x058a55925627980dbb6d6d39f8dad5de5be16764)
+- **wanBTC@Wanchain** [https://www.wanscan.org/token/0x50c439b6d602297252505a6799d84ea5928bcfb6](0x50c439B6d602297252505a6799d84eA5928bCFb6)
+
+[Ethereum (ETH)](https://www.ethereum.org/)
 
 - [Maker (MKR)](https://makerdao.com/)
 

@@ -10,12 +10,14 @@
 
 
 ## Products
+
 - [GWAN](https://github.com/wanchain/go-wanchain/releases/)  
-
-- [Wan Wallet (Desktop)](https://www.wanchain.org/getstarted/)
-
-- [Wan Wallet (Android APK)](https://www.wanchain.org/getstarted/)
-
-- [Wan Wallet (Android Google Play)](https://www.wanchain.org/getstarted/)
-
-- [Wan Wallet (iOS)](https://www.wanchain.org/getstarted/)
+- [WanWallet (Desktop)](https://www.wanchain.org/getstarted/)
+- [WanWallet (Android)](https://www.wanchain.org/getstarted/)
+- [WanWallet (iOS)](https://www.wanchain.org/getstarted/)
+- [WanWallet (Offline)](https://www.wanchain.org/getstarted/)
+- [WanMask](https://wanmask.io/)
+- [WanBridge Web](https://bridge.wanchain.org/#/)
+- [Trezor](https://trezor.io/) (WAN Supported)
+- [Ledger](https://www.ledger.com/) (WAN Supported)
+- [Trust Wallet](https://trustwallet.com/) (WAN Supported)

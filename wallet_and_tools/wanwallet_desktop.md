@@ -1,6 +1,7 @@
-# Wan Wallet 
+# WanWallet Desktop
 
 ![](media/wan_wallet_1.png)
+
 ## Wallet Features
 
 Wanchain's first official desktop light wallet is available on Mac, Windows, and Linux and currently supports these features:
@@ -17,7 +18,7 @@ Wanchain's first official desktop light wallet is available on Mac, Windows, and
 ## Setup
 
 #### Download and Install
-Download [Wan Wallet](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2Fwanchain%2Fwan-wallet-desktop%2Freleases).
+Download [WanWallet Desktop](https://www.wanchain.org/getstarted/).
 
 Double click the install package and follow the on screen instructions to install.
 

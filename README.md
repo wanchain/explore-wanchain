@@ -61,15 +61,15 @@ Our vision is a world where assets can flow freely between blockchains without a
 
 **Storeman group powered Wanchain — Ethereum cross-chain transactions**
 
--Cross-chain transactions with Ethereum
--Permissioned Storeman groups enable cross-chain transactions
+- Cross-chain transactions with Ethereum
+- Permissioned Storeman groups enable cross-chain transactions
 
 
 ### Wanchain 1.0
 
 **Mainnet Launch**
 
--Wanchain launches an independent blockchain focused on developing the interoperability and privacy features which are prerequisites for the future of digital finance
--Theoretical blueprints for interoperability features completed
--Features private transactions and smart contracts at launch with work on interoperability features underway
+- Wanchain launches an independent blockchain focused on developing the interoperability and privacy features which are prerequisites for the future of digital finance
+- Theoretical blueprints for interoperability features completed
+- Features private transactions and smart contracts at launch with work on interoperability features underway
 

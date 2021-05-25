@@ -77,7 +77,7 @@ At this time, you can see the Nonce value.
 
 ![](https://miro.medium.com/max/875/0*J4zi7Z8MsAEG1KjC.png)
 
-## (OFFLINE WALLET) Generate Signed Transaction
+### (OFFLINE WALLET) Generate Signed Transaction
 
 ![](https://miro.medium.com/max/875/0*ElC_gB_wXibw7xNL.png)
 
@@ -98,7 +98,7 @@ After confirming that the information is correct, click the “Sign” button, e
 
 Copy the signed transaction data to a text file and transfer the file to an empty USB flash drive.
 
-## (DESKTOP WALLET) Broadcast Signed Transaction
+### (DESKTOP WALLET) Broadcast Signed Transaction
 
 Connect your USB drive with the signed transaction to your computer with the desktop wallet open.
 

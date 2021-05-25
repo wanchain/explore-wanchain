@@ -1,8 +1,10 @@
-# Browser Based WanBridge Makes Cross-chain Transactions Super Simple!
+# WanBridge Web
 
 ## What is WanBridge?
 
 WanBridge is the browser based interface for Wanchain cross-chain transactions between Wanchain and Ethereum. With WanBridge, you no longer need to download and install the WanChain desktop light wallet. Simply go to the [WanBridge website](https://bridge.wanchain.org) and make sure you have the [WanMask](https://chrome.google.com/webstore/detail/wanmask/omnkcjdohbnjfjmlaiboojplahajnenj) and [MetaMask](https://metamask.io/) browser extension wallets installed. WanBridge currently officially supports only Google Chrome, but other browser which run Chrome extensions may also work.
+
+## How To Operate WanBridge Web
 
 ### Step One
 
@@ -20,7 +22,7 @@ Let’s take “ Wanchain <-> Ethereum” as an example.
 
 ![](https://miro.medium.com/max/693/1*AfUAXJqR4poNn5HEkAEiXg.png)
 
-### 3\. connect wallet
+### Connect wallet
 
 **3.1 Connect WanMask**
 

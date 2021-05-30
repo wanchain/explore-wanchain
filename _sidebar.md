@@ -15,6 +15,7 @@
   - [Wanchain Blockchain Explorer](wallet_and_tools/wanscan.md)
   - [Ledger Support](wallet_and_tools/ledger.md "Wanchain - Ledger Support")
   - [Trezor Support](wallet_and_tools/trezor.md "Wanchain - Trezor Support")
+  - [MyWanWallet](wallet_and_tools/mywanwallet.md)
   - [Other Wallets & Tools](wallet_and_tools/tools.md "Wanchain - Other Wallets and Tools")
 
 - Technology

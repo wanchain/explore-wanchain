@@ -6,6 +6,7 @@ Go to [wanscan.org](https://www.wanscan.org/) to see Wanchain Blockchain Explore
 The homepage displays data such as the block height, the total staked assets of PoS and Storemen, the average APY, and the top ten nodes, the latest blocks, the latest transactions and other information.
 
 At the same time, in the text box at the upper right corner of the page, you can enter block height, Txhash, wallet address, token address and other information for direct query. The blockchain browser is very convenient and will automatically recognize and output the corresponding results.
+
 ![](https://cdn.nlark.com/yuque/0/2020/png/2626887/1605758325499-58548798-9903-4e47-9a96-56c716426407.png?x-oss-process=image%2Fresize%2Cw_1492)
 
 

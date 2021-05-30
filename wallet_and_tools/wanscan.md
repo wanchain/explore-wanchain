@@ -7,7 +7,7 @@ The homepage displays data such as the block height, the total staked assets of 
 
 At the same time, in the text box at the upper right corner of the page, you can enter block height, Txhash, wallet address, token address and other information for direct query. The blockchain browser is very convenient and will automatically recognize and output the corresponding results.
 
-![](https://cdn.nlark.com/yuque/0/2020/png/2626887/1605758325499-58548798-9903-4e47-9a96-56c716426407.png?x-oss-process=image%2Fresize%2Cw_1492)
+![](https://camo.githubusercontent.com/c7e55710c31472016c1de67b419377e9ee7c9d0f17916a0c1663307a2b6f5379/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032302f706e672f323632363838372f313630353735383332353439392d35383534383739382d393930332d346534372d396139362d3536633731363432363430372e706e673f782d6f73732d70726f636573733d696d616765253246726573697a65253243775f31343932)
 
 
 ## 1. 查看账户

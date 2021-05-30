@@ -9,6 +9,7 @@
   - [WanWallet Desktop](wallet_and_tools/wanwallet_desktop.md)
   - [WanWallet Mobile](wallet_and_tools/wanwallet_mobile.md)
   - [WanWallet Offline](wallet_and_tools/wanwallet_offline.md)
+  - [WanMask](wallet_and_tools/wanmask.md)
   - [WanBridge Web](wallet_and_tools/wanbridge_web.md)
   - [Wanchain Blockchain Explorer](wallet_and_tools/wanscan.md)
   - [Ledger Support](wallet_and_tools/ledger.md "Wanchain - Ledger Support")

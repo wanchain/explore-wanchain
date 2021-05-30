@@ -11,6 +11,7 @@ At the same time, in the text box at the upper right corner of the page, you can
 
 
 ## 1. View account
+
 If you are inquiring about the account balance, historical transaction data of the account, etc., it is recommended to directly enter the wallet address to query;
 In addition, you can also see the balance and transaction data of various tokens, cross-chain data, node rewards, delegated rewards and other information.
 
@@ -18,21 +19,35 @@ In addition, you can also see the balance and transaction data of various tokens
 
 
 ## 2. View a single transaction
+
 If you are querying the detailed information of a certain transaction, the most convenient way is to enter the transaction hash.
+
 You can clearly see the status of the transaction, block height, timestamp, sender and receiver addresses, gas data, transaction amount and other information.
 
 ![](https://camo.githubusercontent.com/0342eca1a52e9d454a099740d3ab8e2b67a6afd61d1c739138acdba9a632ad81/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032302f706e672f323632363838372f313630323833343032313036322d33643766353638382d373930622d346338322d616539392d6664313965646664353432642e706e6723616c69676e3d6c65667426646973706c61793d696e6c696e65266865696768743d31303830266d617267696e3d2535426f626a6563742532304f626a656374253544266e616d653d2545342542412541342545362539382539332545352539332538382545352542382538432e706e67266f726967696e4865696768743d31303830266f726967696e57696474683d313834312673697a653d3630343430267374617475733d646f6e65267374796c653d6e6f6e652677696474683d31383431)
 
 
-## 3. 查询区块
-在这个页面里，你可以看到该区块的所有信息，包括区块高度，区块哈希、区块年龄（时间戳），区块详情，以及区块对应的字节大小等。
-![区块高度.png](https://cdn.nlark.com/yuque/0/2020/png/2626887/1602834047619-4c799ad4-8284-4221-8399-43bd66a97b63.png#align=left&display=inline&height=1080&margin=%5Bobject%20Object%5D&name=%E5%8C%BA%E5%9D%97%E9%AB%98%E5%BA%A6.png&originHeight=1080&originWidth=1841&size=72922&status=done&style=none&width=1841)
+## 3. Query block
+
+On this page, you can see all the information about the block, including the block height, block hash, block time (time stamp), block details, and the corresponding byte size of the block.
+
+![](https://camo.githubusercontent.com/c118f24926782a1ede8bf52e4d846317f38e0c8f523fbafea07bdb27e0d21633/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032302f706e672f323632363838372f313630323833343034373631392d34633739396164342d383238342d343232312d383339392d3433626436366139376236332e706e6723616c69676e3d6c65667426646973706c61793d696e6c696e65266865696768743d31303830266d617267696e3d2535426f626a6563742532304f626a656374253544266e616d653d2545352538432542412545352539442539372545392541422539382545352542412541362e706e67266f726967696e4865696768743d31303830266f726967696e57696474683d313834312673697a653d3732393232267374617475733d646f6e65267374796c653d6e6f6e652677696474683d31383431)
  
-## 4. 查看PoS节点
-在首页前十节点（Top 10 Validators）的右侧，可查看全部节点（View All）。节点分两类：受托验证节点和普通验证节点，通过是否接受委托（Accept Delegations）来区分。
-大家想参与星系共识PoS来赚取更多的WAN时，一般都会找委托费率低，质押量大的受托验证节点。对于委托费率，可参考节点的当前费率（Current Fee）和最高费率（Max Fee）。![节点列表.png](https://cdn.nlark.com/yuque/0/2020/png/2626887/1602834460024-0a67475d-41db-4859-b9b6-c2bb77e0fc5c.png#align=left&display=inline&height=1080&margin=%5Bobject%20Object%5D&name=%E8%8A%82%E7%82%B9%E5%88%97%E8%A1%A8.png&originHeight=1080&originWidth=1840&size=128501&status=done&style=none&width=1840)
-点击节点的名称，可进入查看该节点的详细信息，如节点的地址（Address），开启的时间（Start Time），锁定周期（Lock Period），获得奖励的WAN总数（Total Reward）和详细记录（Validator Reward），委托人数量（Delegations）和列表（Delegator List）等信息。 ![节点信息.png](https://cdn.nlark.com/yuque/0/2020/png/2626887/1602834468134-90d731ab-3b82-4b55-b01a-6a632c160cad.png#align=left&display=inline&height=1080&margin=%5Bobject%20Object%5D&name=%E8%8A%82%E7%82%B9%E4%BF%A1%E6%81%AF.png&originHeight=1080&originWidth=1841&size=94689&status=done&style=none&width=1841)
-你还可到 [https://wanstats.io/](https://wanstats.io/)网站上查看各节点的运行监控信息。![节点监控.png](https://cdn.nlark.com/yuque/0/2020/png/2626887/1602834117071-a197a134-2093-4a8e-a724-f678d9dc12fa.png#align=left&display=inline&height=1080&margin=%5Bobject%20Object%5D&name=%E8%8A%82%E7%82%B9%E7%9B%91%E6%8E%A7.png&originHeight=1080&originWidth=1841&size=161648&status=done&style=none&width=1841)
+## 4. View PoS nodes
+
+On the right side of the top 10 nodes on the homepage, you can view all nodes (View All). There are two types of nodes: delegated validator and non-delegated validator, which are distinguished by whether they can accept delegations.
+
+When a user wants to participate in the Galaxy Consensus PoS to get more WAN, he usually finds a validator with a low delegation ratio and a large amount WAN staked. For the delegation fee ratio, you can refer to the current fee rateand the maximum fee rate of the node.
+
+![](https://camo.githubusercontent.com/c2ca22234cb0aacc006ced77d914d4556a29ff703b0768c5841d781f9e78181e/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032302f706e672f323632363838372f313630323833343436303032342d30613637343735642d343164622d343835392d623962362d6332626237376530666335632e706e6723616c69676e3d6c65667426646973706c61793d696e6c696e65266865696768743d31303830266d617267696e3d2535426f626a6563742532304f626a656374253544266e616d653d2545382538412538322545372538322542392545352538382539372545382541312541382e706e67266f726967696e4865696768743d31303830266f726967696e57696474683d313834302673697a653d313238353031267374617475733d646f6e65267374796c653d6e6f6e652677696474683d31383430)
+
+You can click on the name of the node to enter and view the detailed information of the node, such as Address, Start Time, Lock Period, Total Reward and Validator Reward, Delegations and the Delegator List and other information.
+
+![](https://camo.githubusercontent.com/8f046ec0feb64483de6a343d84c76927797954c2928433dffe059896ff94755d/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032302f706e672f323632363838372f313630323833343436383133342d39306437333161622d336238322d346235352d623031612d3661363332633136306361642e706e6723616c69676e3d6c65667426646973706c61793d696e6c696e65266865696768743d31303830266d617267696e3d2535426f626a6563742532304f626a656374253544266e616d653d2545382538412538322545372538322542392545342542462541312545362538312541462e706e67266f726967696e4865696768743d31303830266f726967696e57696474683d313834312673697a653d3934363839267374617475733d646f6e65267374796c653d6e6f6e652677696474683d31383431)
+
+You can also find the status of each node on [https://wanstats.io/](https://wanstats.io/)
+
+![](https://camo.githubusercontent.com/394381357aad603740a20f5ea1bf2bc141a8393c724b631b676a8fbdf84edb3d/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032302f706e672f323632363838372f313630323833343131373037312d61313937613133342d323039332d346138652d613732342d6636373864396463313266612e706e6723616c69676e3d6c65667426646973706c61793d696e6c696e65266865696768743d31303830266d617267696e3d2535426f626a6563742532304f626a656374253544266e616d653d2545382538412538322545372538322542392545372539422539312545362538452541372e706e67266f726967696e4865696768743d31303830266f726967696e57696474683d313834312673697a653d313631363438267374617475733d646f6e65267374796c653d6e6f6e652677696474683d31383431)
 
 
 

@@ -1,9 +1,6 @@
 
 # Trezor Support
 
-
-# Trezor Support
-
 ## Supported Products
 
 Here are the Wanchain products which support WAN by using Trezor:

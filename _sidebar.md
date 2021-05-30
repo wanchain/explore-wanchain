@@ -10,6 +10,7 @@
   - [WanWallet Mobile](wallet_and_tools/wanwallet_mobile.md)
   - [WanWallet Offline](wallet_and_tools/wanwallet_offline.md)
   - [WanBridge Web](wallet_and_tools/wanbridge_web.md)
+  - [Wanchain Blockchain Explorer](wallet_and_tools/wanscan.md)
   - [Ledger Support](wallet_and_tools/ledger.md "Wanchain - Ledger Support")
   - [Trezor Support](wallet_and_tools/trezor.md "Wanchain - Trezor Support")
   - [Other Wallets & Tools](wallet_and_tools/tools.md "Wanchain - Other Wallets and Tools")

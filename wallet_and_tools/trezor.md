@@ -1,20 +1,23 @@
 
 # Trezor Support
 
-## Requirements
-|**Hardware/Software**|**Version**|
-|:---|:---| 
-| [Wanchain GUI wallet](https://wanchain.org/products) | 1.0.5 or later  |
-| [Gwan](https://github.com/wanchain/go-wanchain) |   1.0.5 or later|  
-| Trezor One (Trezor T not supported) |   1.6.2 to 1.7.1|  
 
-*You can find instructions for updating your Trezor firmware [here](https://wiki.trezor.io/index.php?title=User_manual:Updating_your_Trezor%27s_firmware&ModelType=1)*
+# Trezor Support
 
-## Step by Step Guide
+## Supported Products
 
-*DISCLAIMER: MyWanWallet.nl is a Wanchain community project. The Wanchain Foundation does not maintain the project or make any guarantees about its security or functionality, and takes no responsibility for any loss or damages incurred through use of MyWanWallet.nl.*
+Here are the Wanchain products which support WAN by using Trezor:
 
-1. Connect your Trezor to your PC by USB and navigate to [https://mywanwallet.nl/](https://mywanwallet.nl/). Double check the address to make sure that it is correct, including 'https' and the 'nl' domain.  
+- [WanWallet Desktop](https://www.wanchain.org/getstarted/)
+- [WanMask](https://wanmask.io/)
+- [MetaMask](https://metamask.io/)
+- [MyWanWallet](https://mywanwallet.com)
+
+## Step by Step Guide in MyWanWallet
+
+*DISCLAIMER: MyWanWallet.com is a Wanchain community project. The Wanchain Foundation does not maintain the project or make any guarantees about its security or functionality, and takes no responsibility for any loss or damages incurred through use of MyWanWallet.com.*
+
+1. Connect your Trezor to your PC by USB and navigate to [https://mywanwallet.com/](https://mywanwallet.com/). Double check the address to make sure that it is correct, including 'https' and the 'com' domain.  
 
 2. Double check that you are on the Wanchain Mainnet and not on the Testnet or any other network. 
 
@@ -30,7 +33,7 @@
 
   ![](media/trezormww2.jpg)
 
-7. Click the blue button with the text "Allow once for this session" to allow MyWanWallet.nl permission to read the public keys from your Trezor device.
+7. Click the blue button with the text "Allow once for this session" to allow MyWanWallet.com permission to read the public keys from your Trezor device.
 
   ![](media/trezormww3.jpg)
 
@@ -60,7 +63,7 @@
 15. Allow your browser to redirect you by popup to the url beginning with `https://connect.trezor.io` and wait for the page to load.
   ![](media/trezormww9.jpg)
 
-16. Click the blue button with the text "Allow once for this session" to allow MyWanWallet.nl permission to sign the transaction with your Trezor device.
+16. Click the blue button with the text "Allow once for this session" to allow MyWanWallet.com permission to sign the transaction with your Trezor device.
 
   ![](media/trezormww10.jpg)
 

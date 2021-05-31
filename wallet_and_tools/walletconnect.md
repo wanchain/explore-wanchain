@@ -1,3 +1,5 @@
+# Connect Wanchain Dapps using WalletConnect
+
 ![](https://cdn.nlark.com/yuque/0/2021/jpeg/2308988/1619517881490-0aca066a-0b2a-47e1-b3e7-f632a9bcfd68.jpeg)
 
 
@@ -15,13 +17,13 @@ For "WalletConnect", let's take a look at the official definition: Open protocol
 But generally speaking, WallectConnect only supports dapps that connect to the Ethereum-based applications. On April 15th, Wanchain completed a major upgrade of the "Jupiter" version, achieving full compatibility with the EVM, which also means that Wanchain can fully adapt to the Ethereum-based dapps and tools. After the improvement and adaptation by R&D team, you can use the mobile version of MetaMask by configuring parameters and switching to Wanchain network, in this case, MetaMask mobile can fully support Wanchain-based Dapps via WallectConnect, such as WanSwap, Zookeeper, Jack's Pot, etc. In the future, we plan to allow more mobile wallets to support WalletConnect and scan QR codes to connect to more Wanchain applications.
 
 
-# How to use MetaMask mobile version to scan the QR code to connect to WanSwap?
+## How to use MetaMask mobile version to scan the QR code to connect to WanSwap?
 
 
 Let's take the mobile version of MetaMask to connect to WanSwap as an example. Here are the specific steps.
 
 
-## 1. Configure Wanchain network on MetaMask mobile
+### 1. Configure Wanchain network on MetaMask mobile
 
 
 Click the network menu at the top of the MetaMask, and select the **Custom RPC** at the bottom of the pop-up menu.
@@ -49,7 +51,7 @@ After completed the above step, you can use MetaMask to connect to the Wanchain 
 ![](https://camo.githubusercontent.com/68710b741df310c489825225ec8aa56699a91fd296b3b259a469445fa5a646a5/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323032312f706e672f323330383938382f313631393434343632373331312d65623531333835322d653166612d346361642d616434612d6464363935386632656463332e706e6723636c69656e7449643d7539636237353063622d646639322d342666726f6d3d7061737465266865696768743d3830382669643d753864303134623136266d617267696e3d2535426f626a6563742532304f626a656374253544266e616d653d696d6167652e706e67266f726967696e4865696768743d32333430266f726967696e57696474683d31303830266f726967696e616c547970653d62696e6172792673697a653d323636373439267374617475733d646f6e65267374796c653d6e6f6e65267461736b49643d7564363038633335322d653465632d346330382d393662632d30373431386535656331342677696474683d333733)
 
 
-## can the QR code to connect to WanSwap
+### Scan the QR code to connect to WanSwap
 
 
 Visit [WanSwap official website](https://wanswap.finance/) on your computer, and click the Connect button at the top right to connect to the wallet

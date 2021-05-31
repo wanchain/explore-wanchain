@@ -19,7 +19,7 @@ Since the release of Wanchain 5.0 in Q4 last year, the Wanchain ecosystem has at
 ![](https://miro.medium.com/max/875/0*3bn1dBuVcNQTzlIq.png)
 
 ## What’s New for Dark Forest
-===========================
+
 
 According to the major upgrade of original Dark Forest on Ethereum, Wanchain developers have also upgraded the Wanchain-based Dark Forest.
 
@@ -32,17 +32,15 @@ Here are the new features:
 It is worth noting that the players’ data and records in the old version of Dark Forest cannot be inherited to the new version of Dark Forest. Players must re-create the game account to start a new journey.
 
 ## Advantages of Developing Dapps on Wanchain
-==========================================
+
 
 Compared with developing Dapps on other public chains, developing dapps on Wanchain has many advantages. The advantages can be summarized as the following two points
 
 Dual Dapp: One dapp to be deployed on both chains
--------------------------------------------------
 
 With the existing Dapps on Ethereum, we can easily deploy a set of the same Dapps on Wanchain to facilitate users to participate in the dapp. At the same time, with the help of Wanchain’s wanBridge cross-chain mechanism, these Dual Dapps’ internal assets can be freely transferred between the two chains, thereby greatly expanding the application scenarios and audiences.
 
 Solving the pain points of high gas fees on Ethereum
-----------------------------------------------------
 
 At present, the gas fees on Ethereum has been reduced compared to the previous period, but the gas fees of a few dollars or even a dozen dollars for a single transaction with smart contract are still barriers for common users. In the face of helpless users and project parties, deploying Dapps on Wanchain can effectively solve this pain point.
 
@@ -51,7 +49,7 @@ The project team can deploy a DeFi application on Wanchain that is exactly the s
 Of course, the Ethereum-based Dark Forest team now adopts layer 2 network mechanism to solve the expensive gas issue.
 
 ## How to Play the ‘Dark Forest’
-=============================
+
 
 ![](https://miro.medium.com/max/875/0*AEW9n1Zz6obGSMSr.png)
 
@@ -64,7 +62,7 @@ Audit by: Wanchain dev team
 Note: The game is derived from the original Ethereum-based Dark Forest, so the Space Masters information has not been cleared.
 
 Create An Account
------------------
+
 
 Open the Dark Forest website in Google Chrome. Click “Enter” to start the game (Please note that other browsers do not support it at present.)
 
@@ -81,7 +79,7 @@ When entering the game again next time, you can directly type “a” to log in 
 ![](https://miro.medium.com/max/550/0*ynrxuPyQ6toh3DVG.png)
 
 Explore in the universe​
-------------------------
+
 
 Explore in the universe, occupy planets, and collect resources.
 
@@ -156,7 +154,7 @@ Each planet can be created as a Non-fungible token (NFT). The red circled part r
 ![](https://miro.medium.com/max/875/0*nM4Ljn5FJxeMsDkj.png)
 
 Explore the universe artifacts — NFT assets
--------------------------------------------
+
 
 As you explore the universe, you will find artifacts from the planets. If the player finds that there are artifacts hidden on a planet, they can obtain them. The artifacts will improve the attributes of the planet, similar to the traditional game for the roles to wear different game props.
 

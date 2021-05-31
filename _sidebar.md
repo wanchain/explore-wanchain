@@ -58,7 +58,7 @@
   - [Jack's Pot](dapps/jackspot.md)
   - [WanFarm](dapps/wanfarm.md)
   - [WanDex](dapps/wandex.md)
-  - [Dark Forest](dapps/darkforest.md)
+  - [Dark  Forest](dapps/darkforest.md)
 
 - Testnet 
   - [Testnet Node Setup](staking-testnet/node-setup-testnet.md)

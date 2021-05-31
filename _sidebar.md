@@ -52,13 +52,13 @@
   - [Setup A Storeman Node](storeman/node-setup.md)
 
 - Dapps
-  - [WanSwap](dapp/wanswap.md)
-  - [WanLend](dapp/wanlend.md)
-  - [ZooKeeper](dapp/zookeeper.md)
-  - [Jack's Pot](dapp/jackspot.md)
-  - [WanFarm](dapp/wanfarm.md)
-  - [WanDex](dapp/wandex.md)
-  - [Dark Forest](dapp/darkforest.md)
+  - [WanSwap](dapps/wanswap.md)
+  - [WanLend](dapps/wanlend.md)
+  - [ZooKeeper](dapps/zookeeper.md)
+  - [Jack's Pot](dapps/jackspot.md)
+  - [WanFarm](dapps/wanfarm.md)
+  - [WanDex](dapps/wandex.md)
+  - [Dark Forest](dapps/darkforest.md)
 
 - Testnet 
   - [Testnet Node Setup](staking-testnet/node-setup-testnet.md)

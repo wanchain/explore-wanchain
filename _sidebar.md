@@ -24,7 +24,6 @@
   - [Cross Chain Overview](technology/cross-chain.md "Wanchain - Cross Chain") 
   - [Privacy Protection](technology/privacy.md "Wanchain - Privacy Protection") 
   - [Smart Contracts](technology/smart-contracts.md "Wanchain - Smart Contracts")
-  - [WanDex](technology/wandex.md "Wanchain - WanDex")
   - [Gwan](technology/gwan.md "Wanchain - Gwan")
   - [iWan](technology/iwan.md "Wanchain - iWan")
   - [Secure Multi Party Computation](technology/smpc.md "Wanchain - Secure Multi Party Computation")
@@ -35,8 +34,6 @@
 - Guides
   - [Cross-chain transfer BTC to wanBTC](guides/btccrosschain.md) 
   - [Cross-chain transfer EOS to wanEOS](guides/guideeos.md)
-  - [WanLend](guides/wanlendtutorial.md)
-  - [WanFarm](guides/wanfarmtutorial.md)
   
 - Staking
   - [Important Terms and Parameters](staking/parameters.md)
@@ -55,10 +52,13 @@
   - [Setup A Storeman Node](storeman/node-setup.md)
 
 - Dapps
-  - [WanSwap]()
-  - [WanLend]()
-  - [ZooKeeper]()
-  - [Jack's Pot]()
+  - [WanSwap](dapp/wanswap.md)
+  - [WanLend](dapp/wanlend.md)
+  - [ZooKeeper](dapp/zookeeper.md)
+  - [Jack's Pot](dapp/jackspot.md)
+  - [WanFarm](dapp/wanfarm.md)
+  - [WanDex](dapp/wandex.md)
+  - [Dark Forest](dapp/darkforest.md)
 
 - Testnet 
   - [Testnet Node Setup](staking-testnet/node-setup-testnet.md)

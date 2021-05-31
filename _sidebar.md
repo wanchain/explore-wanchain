@@ -52,6 +52,7 @@
   - [Setup A Storeman Node](storeman/node-setup.md)
 
 - Dapps
+  - [Instant Cross](dapps/instantcross.md)
   - [WanSwap](dapps/wanswap.md)
   - [WanLend](dapps/wanlend.md)
   - [ZooKeeper](dapps/zookeeper.md)

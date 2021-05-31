@@ -68,8 +68,93 @@ While anyone may issue a token on Wanchain and anyone may add any token pair the
 
 Ten percent of all $WASP rewards will be sent to a DAO fund which will be distributed to early contributors during the early development stage, and which will be put under DAO control in the future. More details about $WASP tokenomics will be publish on the official WanSwap website. Details of the distribution to contributors will be published monthly on WanSwap’s website.
 
+## 10 Reasons why your project should list on WanSwap
 
+WanSwap is the answer to high gas fees, here are 10 reasons why you should launch your token on WanSwap in addition to Uniswap.
 
+**1\. Reach a broader audience**
+
+Not everyone has a big amount of money to spend, small-time investors may be interested in your project, what keeps them from buying is the high gas fee they have to pay for the trade, making the investment not worth it for them. If you list your token on WanSwap the transaction cost will be less than 0.01$. Equity, this is what Crypto is all about! Why wait for L2 solutions when the solution is already there.
+
+![](https://miro.medium.com/max/398/1*nxh36mFnpbsXEuOilEsCkA.png)
+
+Trade on WanSwap
+
+![](https://miro.medium.com/max/409/1*TjIxM_XG_630O3P9Bg4QvQ.png)
+
+Trade on Uniswap
+
+**2\. Listing is free**
+
+WanSwap does not require a listing fee, the only thing you need to do is provide the initial liquidity for the trading pair.
+
+**3\. It’s Cross-Chain**
+
+Your tokens can be traded on several chains. If an investor does not hold ETH, they can trade for wanEOS, wanBTC, or WAN. More chains will be added soon. The tech is provided by Wanchain.
+
+![](https://miro.medium.com/proxy/1*Pc4BdkFVDiUPVXFdwZH96A.jpeg)
+
+**4\. No KYC**
+
+Because WanSwap is an AMM DEX, no KYC is needed to trade on WanSwap.
+
+![](https://miro.medium.com/max/608/0*70Zq0CSVR6qbIpfL.png)
+
+**5\. It’s multiplatform**
+
+WanSwap is available on Desktop (Wanchain light wallet), browser (WanMask), iOS, and Android (Wanchain mobile wallet).
+
+**6\. It’s fast**
+
+Up to 1000 tps!
+
+**7\. It can add incentive for holding your tokens**
+
+Tokens can be added to farming. WanSwap provides its WASP token to investors that provide liquidity to voted in pairs. WASP is used for governance. The community will decide if your token is worthy!
+
+![](https://miro.medium.com/max/875/1*I6hSvhu3nX8vmWVQGfFv1w.png)
+
+**8\. It’s fully decentralized**
+
+A lot of projects claim they are decentralized but they actually aren’t (yet). WanSwap is truly decentralized!
+
+**9\. It’s easy**
+
+The interface is intuitive to use. Documentation and video and all features are available if needed.
+
+**10\. Integration with Wanchain DApp ecosystem**
+
+Possibilities to integrate your token in one of the other DApps in the Wanchain ecosystem.
+
+And more to come soon!
+
+## Liquidity on WanSwap Explained
+
+**Introduction to liquidity pools**
+
+When you supply liquidity to a WanSwap liquidity pool, you receive WSLP tokens in proportion to how much liquidity you supply to the pool. When a trade is facilitated by the pool a percentage of the fee is proportionally distributed amongst all the liquidity pools token holders. If you withdraw your assets from the pool, you will receive the earned fees but your tokens will be burned.
+
+The liquidity pool token for WanSwap is WSLP, in WanSwap you can use your WSLP to withdraw your assets from the pool and it can be used for mining governance tokens: WASP.
+
+**Liquidity mechanics**
+
+I will explain the mechanics by using an example. Let’s say you want to provide liquidity in the WAN-wanUSDT pool. The way the pools work is you have to deposit an equal value of WAN and the token that you want to participate with, in this case, wanUSDT.
+
+It’s advised to do some research when adding liquidity in the pool, always check if the value is like it should be. Enter the amount of one of the assets into the field, it calculates the equal amount in value of the other asset automatically. It’s important that the value is 50/50, you could change the amount but if you do this, somebody could arbitrage it and you could lose your funds.
+
+Once you added liquidity to the pool and someone makes a swap on the pair, your liquidity will be tapped into. Based on the trade, your amount in the pool will shift towards more WAN or more wanUSDT. So if someone would have traded WAN for wanUSDC, your wanUSDC liquidity will shrink but your WAN liquidity will increase. It works like a scale, you should always come out to the same combined value as you put in.
+
+![](https://miro.medium.com/max/3600/1*ZT9YIcBzzFYqHPbflSWALA.jpeg)
+
+The liquidity providers (LP)get a percentage of every trade that is made in the pool. It’s divided over every LP in the pool. The bigger the share you have in the pool, the larger the share of the reward you will receive. On WanSwap the transaction fee is 0.3%, 0.25% will go to the LP, and 0.05% will be used for WanSwap for buying back WASP tokens. For example: if your part in the liquidity pool is 3%, you will get 3% of the 0.25% fee.
+
+For providing liquidity to the pool you will get WLSP tokens. The amount of tokens you get represents your share of the pool. When you withdraw from the pool these tokens will be burned.
+
+**Impermanent Loss**
+
+In essence, an impermanent loss is a temporary loss of funds occurring when providing liquidity. You can find a good guide about impermanent loss [here](https://finematics.com/impermanent-loss-explained/).
+
+Make sure you are aware of impermanent loss before you jump into providing liquidity!
 
 
 ## About WanSwap

@@ -56,7 +56,7 @@
   - [Economic Incentives](wanbridge/economic-incentives.md)
   - [Cryptography Supported](wanbridge/cryptography.md)
   - [Security Mechanism](wanbridge/security-mechanism.md)
-  - [Overview](wanbridge/overview.md)
+  - [Two-way Bridge & Direct Bridge](wanbridge/two-way-and-direct.md)
   - [Overview](wanbridge/overview.md)
 
 - Dapps

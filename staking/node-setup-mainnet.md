@@ -59,7 +59,7 @@ You can register your node using the officia [Wan Wallet](https://github.com/wan
 
 1. Transfer the WAN you will be staking to your funding account and wait for the transaction to complete.
 
-1. Follow the registration instructions on the [wallet guide](https://www.explorewanchain.org/#/wallet_and_tools/wanwallet_desktop?id=validator-node-registration).
+1. Follow the registration instructions on the [wallet guide](https://github.com/wanchain/explore-wanchain/blob/master/wallet_and_tools/wanwallet_desktop.md#validator-node-registration).
 
 1. After registering successfully, you can view the validator address just registered in the validator list on the [WanScan](https://wanscan.org/) website. (same as the address backed up above)
 

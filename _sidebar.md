@@ -57,7 +57,7 @@
   - [Cryptography Supported](wanbridge/cryptography.md)
   - [Security Mechanism](wanbridge/security-mechanism.md)
   - [Two-way Bridge And Direct Bridge](wanbridge/two-way-and-direct.md)
-  - [Overview](wanbridge/overview.md)
+  - [Multichains](wanbridge/multichains.md)
 
 - Dapps
   - [Instant Cross](dapps/instantcross.md)

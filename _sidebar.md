@@ -56,8 +56,8 @@
   - [Economic Incentives](wanbridge/economic-incentives.md)
   - [Cryptography Supported](wanbridge/cryptography.md)
   - [Security Mechanism](wanbridge/security-mechanism.md)
-  - [Two way Bridge And Direct Bridge](wanbridge/two-way-and-direct.md)
-  - [Multichains](wanbridge/multichains.md)
+  - [Two-way Bridge And Direct Bridge](wanbridge/two-way-and-direct.md)
+  - [Multichain Bridges](wanbridge/multichain-bridges.md)
 
 - Dapps
   - [Instant Cross](dapps/instantcross.md)
@@ -67,7 +67,7 @@
   - [Jack's Pot](dapps/jackspot.md)
   - [WanFarm](dapps/wanfarm.md)
   - [WanDex](dapps/wandex.md)
-  - [Dark  Forest](dapps/darkforest.md)
+  - [Dark Forest](dapps/darkforest.md)
 
 - Testnet 
   - [Testnet Node Setup](staking-testnet/node-setup-testnet.md)

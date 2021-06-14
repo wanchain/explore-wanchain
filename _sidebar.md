@@ -54,7 +54,7 @@
 - WanBridge Mechanism
   - [Overview](wanbridge/overview.md)
   - [Economic Incentives](wanbridge/economic-incentives.md)
-  - [Overview](wanbridge/overview.md)
+  - [Cryptography](wanbridge/cryptography.md)
   - [Overview](wanbridge/overview.md)
   - [Overview](wanbridge/overview.md)
   - [Overview](wanbridge/overview.md)

@@ -63,7 +63,7 @@ You can register your node using the officia [Wan Wallet](https://github.com/wan
 
 1. After registering successfully, you can view the validator address just registered in the validator list on the [WanScan](https://wanscan.org/) website. (same as the address backed up above)
 
-1. To update your validator display information on WanScan.org, fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=VPnN3XSIEEqLYwFUDjqIlhDN00eQ8opLu9Rbjur15g5UOTVCNFoxQ0dCRUNFTFQzTTVBVFFVMjI2OS4u)
+1. To update your validator display information on WanScan.org, fill in this [form](https://forms.office.com/r/EGENyXzyHU)
 
 
 ## Switching Node to a New Server

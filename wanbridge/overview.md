@@ -32,8 +32,7 @@ Billions of dollars worth of assets are trapped on other blockchains, unable to 
 
 ![](https://miro.medium.com/max/875/0*OFJyyHjEuTSQIXxf.png)
 
-WAN Bridge — Wanchain’s Decentralized, Universal Solution for Trustless and Permissionless Cross-chain Value Transfer
-=====================================================================================================================
+## WanBridge — Wanchain’s Decentralized, Universal Solution for Trustless and Permissionless Cross-chain Value Transfer
 
 Since Wanchain published their whitepaper over 3 years ago, their focus has stayed set on building infrastructure for cross-chain value transfer in order to enable new decentralized financial use cases. After years of intense research and development, engineering breakthroughs, and lots of blood, sweat, and tears, the Wanchain team is about to unveil the product that realizes many of the primary goals which were laid out in their original whitepaper — **_The WAN Bridge_**.
 
@@ -41,8 +40,7 @@ The introduction of WAN Bridges allows for assets to begin to flow freely betwee
 
 ![](https://miro.medium.com/max/875/0*0zPensfBX7u-lJjI.png)
 
-WAN Bridge Development History
-==============================
+## WanBridge Development History
 
 In 2018, Wanchain successfully implemented a cross-chain value transfer solution which allowed BTC, ETH and ERC20 tokens to move back and forth from their native chain to Wanchain. In 2019, Wanchain integrated with EOS and proposed a universal cross-chain framework protocol T-Bridge for cross-chain integration with consortium chains.
 
@@ -52,13 +50,11 @@ In 2018, Wanchain successfully implemented a cross-chain value transfer solution
 
 WAN Bridge is the core product of Wanchain 5.0, and is a major upgrade based from our previous cross-chain mechanism. It is an affordable and scalable solution which allows for native assets and tokens to flow securely and rapidly back and forth between **_ANY_** two chains connected by a bridge.
 
-First Ethereum…and then the World!
-==================================
+## First Ethereum…and then the World!
 
 As each pair of chains to be connected requires its own bridge, WAN Bridges will be set up one by one after the launch of Wanchain 5.0, starting with the most prominent public blockchains, and eventually expanding to include a large array of popular public blockchains. Naturally, the first bridge to be set up will connect Wanchain with Ethereum. Through this bridge, Wanchain’s native WAN and WRC20 tokens may travel back and forth between Wanchain and Ethereum. Likewise, the bridge also allows for ETH and ERC20 tokens to flow freely back and forth between the two chains.
 
-A Note on Nomenclature:
------------------------
+### A Note on Nomenclature:
 
 One of the unique challenges brought by cross-chain asset transfer is that of taxonomy. As more and more tokens become available on more and more different chains, the problem arises of how to refer to the various cross-chain formats of the same asset. Wanchain has proposed their own nomenclature for cross-chain tokens using the @ symbol and lowercase token symbol prefixes.
 
@@ -74,11 +70,10 @@ This nomenclature is used to specify which service provider has issued a cross-c
 
 _Regarding the naming rules of cross-chain assets, Wanchain will have a more in depth discussion in future articles._
 
-Wanchain 5.0 Cross-chain System’s Foundational Concepts:
-========================================================
+## Wanchain 5.0 Cross-chain System’s Foundational Concepts:
 
-Roles
------
+### Roles
+
 
 Wanchain 5.0’s Cross-chain system includes a variety of different actors who fill different roles in the system. Below is a diagram summarizing the different roles:
 
@@ -86,13 +81,11 @@ Wanchain 5.0’s Cross-chain system includes a variety of different actors who f
 
 Wanchain will be releasing more articles exploring the various roles and functions at a later stage
 
-Cross-chain value transfer core mechanism
------------------------------------------
+### Cross-chain value transfer core mechanism
 
 Wanchain’s cross-chain approach is to set up one or more decentralized **WAN Bridges** in order to connect blockchain pairs. Each Wan Bridge has a **Storeman Group** consisting of 21 **Storeman Nodes** (nodes that manage the cross-chain value transfer process).
 
-Security Mechanism
-------------------
+### Security Mechanism
 
 In order to ensure the safe and stable operation of the entire cross-chain system, Storeman Node operators must pledge a certain amount of collateral to be put up as stake. Meanwhile, node operators can also attract deposits from partners and delegators to increase their total stake and obtain more rewards during node operation.
 
@@ -104,8 +97,7 @@ Cryptoeconomic incentives are also used to guard against malicious behavior. Nod
 
 _Wanchain will release a future article explaining incentives and slashing in greater detail._
 
-Wanchain 5.0 Highlights
-=======================
+## Wanchain 5.0 Highlights
 
 > _WAN Bridges are Wanchain’s decentralized, universal solution for trustless and permissionless cross-chain value transfer._
 > 
@@ -113,8 +105,7 @@ Wanchain 5.0 Highlights
 > 
 > _The first decentralized cross-chain bridge will be from EOS to Ethereum._
 
-Where Wanchain goes from here…
-==============================
+## Where Wanchain goes from here…
 
 Wanchain’s long term goal is the establishment of a distributed cross-chain bank which will provide global users with a one-stop shop that offers a variety of decentralized financial products to fulfill all their needs.
 

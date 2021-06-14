@@ -55,7 +55,7 @@
   - [Overview](wanbridge/overview.md)
   - [Economic Incentives](wanbridge/economic-incentives.md)
   - [Cryptography Supported](wanbridge/cryptography.md)
-  - [Overview](wanbridge/overview.md)
+  - [Security Mechanism](wanbridge/security-mechanism.md)
   - [Overview](wanbridge/overview.md)
   - [Overview](wanbridge/overview.md)
 

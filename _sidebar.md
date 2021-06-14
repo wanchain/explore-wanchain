@@ -53,6 +53,11 @@
 
 - WanBridge Mechanism
   - [Overview](wanbridge/overview.md)
+  - [Economic Incentives](wanbridge/economic-incentives.md)
+  - [Overview](wanbridge/overview.md)
+  - [Overview](wanbridge/overview.md)
+  - [Overview](wanbridge/overview.md)
+  - [Overview](wanbridge/overview.md)
 
 - Dapps
   - [Instant Cross](dapps/instantcross.md)

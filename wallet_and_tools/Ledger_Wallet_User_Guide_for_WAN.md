@@ -25,5 +25,5 @@ d) Make sure **Contract Data** is on in Wanchain APP Settings is **allowed**.
 
 8. Click **Continue**.
 9. Select a WAN address in the pop-up window, and click **OK**.
-10. Up to this step, you can see your WAN Ledger address in WanWallet Desktop, and you can send WAN now. For how to send WAN transactions in WanWallet Desktop and other operations, please chekck WanWallet Desktop User Manual.
+10. Up to this step, you can see your WAN Ledger address in WanWallet Desktop, and you can send WAN now. For how to send WAN transactions in WanWallet Desktop and other operations, please chekck [WanWallet Desktop User Manual](https://www.explorewanchain.org/#/wallet_and_tools/wanwallet_desktop).
 

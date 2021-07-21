@@ -14,6 +14,7 @@
   - [WanBridge Web](wallet_and_tools/wanbridge_web.md)
   - [Wanchain Blockchain Explorer](wallet_and_tools/wanscan.md)
   - [Ledger Support](wallet_and_tools/ledger.md "Wanchain - Ledger Support")
+  - [Ledger Wallet for WAN](wallet_and_tools/Ledger_Wallet_User_Guide_for_WAN.md "Ledger Wallet User Guide for WAN")
   - [Trezor Support](wallet_and_tools/trezor.md "Wanchain - Trezor Support")
   - [WalletConnect (support Wanchain  network)](wallet_and_tools/walletconnect.md)
   - [MyWanWallet](wallet_and_tools/mywanwallet.md)

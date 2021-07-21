@@ -11,7 +11,7 @@
 ![](media/ledger1.jpg)
 
 6. Click Install. An installation window will appear, your device will display “Processing...”, then the app installation will be confirmed.
-7. Open WanDesktop Wallet. Go to **Hardware Wallet** -> **Ledger**. Then, following the instructions in the **Connect a Hardware Wallet** page.
+7. Open WanDesktop Wallet. Go to **Hardware Wallet** -> **Ledger**. Then, follow the instructions in the **Connect a Hardware Wallet** page.
 
 a) Connect your Ledger wallet directly to your computer
 

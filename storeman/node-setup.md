@@ -26,8 +26,8 @@ Run scripts to obtain a Storeman Work Address , Public Key (your Storeman regist
 
 Rename or delete `osm` if it already exists at `/home/user`
 
-```
-wget [https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/envSetup.sh](https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/envSetup.sh) && chmod +x envSetup.sh && ./envSetup.sh
+```shell
+wget https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/envSetup.sh && chmod +x envSetup.sh && ./envSetup.sh
 ```
 
 After you run the scripts above, there will be a folder `osm` generated at `/home/user`. The folder `osm` will be used when you start your Storeman node.
@@ -130,7 +130,7 @@ cd ~/osm
 
 rm init\_open\_storeman\_EnvV3.sh
 
-wget https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/init\_open\_storeman\_EnvV3.sh && chmod +x init\_open\_storeman\_EnvV3.sh  && ./init\_open\_storeman\_EnvV3.sh
+wget https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/init_open_storeman_EnvV3.sh && chmod +x init_open_storeman_EnvV3.sh  && ./init\_open\_storeman\_EnvV3.sh
 
 rm startStoremanV5.sh
 
@@ -192,7 +192,7 @@ The script will automatically start Docker to create the Storeman service. If it
 **d) Check Agent Container Status**
 
 ```
-sudo docker exec -it openstoreman\_mainnet pm2 l
+sudo docker exec -it openstoreman_mainnet pm2 l
 ```
 
 Status of **online** and restart times of **0** represent normal status.
@@ -204,7 +204,7 @@ Status of **online** and restart times of **0** represent normal status.
 Open mpc console through ipc, and check the number of connected MPC nodes in console:
 
 ```
-sudo docker exec -it openstoreman\_mainnet ./schnorrmpc/bin/schnorrmpc attach ./schnorrmpc/data/gwan.ipcadmin.peers.length
+sudo docker exec -it openstoreman_mainnet ./schnorrmpc/bin/schnorrmpc attach ./schnorrmpc/data/gwan.ipcadmin.peers.length
 ```
 
 Confirm the returned peer node information, which indicates the current number of MPC node connections. It should be 1 or 21. If the number is abnormal, please contact Wanchain techsupport team.
@@ -218,7 +218,7 @@ Restart Service
 If there is something wrong with your node, try to restart your service
 
 ```
-do docker exec -it openstoreman\_mainnet pm2 restart 2
+do docker exec -it openstoreman_mainnet pm2 restart 2
 ```
 
 ## 4 Storeman Group Running Period
@@ -272,7 +272,7 @@ You can also top-up WAN delegations to the same Storeman during the Storeman Gro
 Here is an example of the results of runnin Public Key and EnodeID scripts
 
 ```
-ubuntu@ip-10-1-1-105:~$ wget [https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/envSetup.sh](https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/envSetup.sh)  &&  chmod +x envSetup.sh && ./envSetup.sh
+ubuntu@ip-10-1-1-105:~$ wget https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/envSetup.sh &&  chmod +x envSetup.sh && ./envSetup.sh
 \--2020-09-28 09:41:22--  [https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/envSetup.sh](https://raw.githubusercontent.com/wanchain/two-way-bridge-contracts/master/helpscript/envSetup.sh)
 Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.52.133
 Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.52.133|:443... connected.

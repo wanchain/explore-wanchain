@@ -168,13 +168,17 @@ Choose your sender address, and click **Send**. Paste your long address to the T
 
 ![](media/wan_wallet_41.jpeg)
 
+Review the Confirm Transaction window, and click Send.
 
+![](media/wan_wallet_42.jpeg)
 
+After around 1 minute, you will receive WAN in the recipient's long address. Click the arrow on the right and then click the button **Redeem**.
 
+![](media/wan_wallet_43.jpeg)
 
+After around half a minute, you will finally receive WAN in your recipient's ordinary address.
 
-
-
+**Note: Make sure that both of your sender address and recipient address has enough WAN for the gas fees.**
 
 
 ## DApp Store

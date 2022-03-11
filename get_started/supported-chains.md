@@ -68,6 +68,12 @@ Below are the tokens and corresponding smart contracts for assets currently supp
 - **ETH.m@Moonriver** [0x576fde3f61b7c97e381c94e7a03dbc2e08af1111](https://moonriver.moonscan.io/token/0x576fde3f61b7c97e381c94e7a03dbc2e08af1111)
 - **wanETH@Wanchain** [0xE3aE74D1518A76715aB4C7BeDF1af73893cd435A](https://www.wanscan.org/token/0xe3ae74d1518a76715ab4c7bedf1af73893cd435a)
 
+[FantOHM DAO (FHM)](https://fantom.foundation/)
+
+- **FHM@Fantom** [0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286](https://ftmscan.com/token/0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286)
+- **FHM.m@Moonriver** [0x147dbae284bbd624b7b5a98dc862e21e8857446d](https://moonriver.moonscan.io/token/0x147dbae284bbd624b7b5a98dc862e21e8857446d)
+- **FHM@Moonriver** [0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286](https://moonriver.moonscan.io/token/0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286)
+
 [Fantom (FTM)](https://fantom.foundation/)
 
 - **FTM.m@Moonriver** [0xd924f195c6012c301f42290cf0fde385a66039de](https://moonriver.moonscan.io/token/0xd924f195c6012c301f42290cf0fde385a66039de)
@@ -81,6 +87,12 @@ Below are the tokens and corresponding smart contracts for assets currently supp
 
 - **GUSD@Ethereum** [0x056fd409e1d7a124bd7017459dfea2f387b6d5cd](https://etherscan.io/token/0x056fd409e1d7a124bd7017459dfea2f387b6d5cd)
 - **wanGUSD@Wanchain** [0xcF422327dDaAa409C2976d01131d8a3457F03251](https://wanscan.org/token/0xcf422327ddaaa409c2976d01131d8a3457f03251)
+
+[Impermax (IMX)](https://www.impermax.finance/)
+
+- **IMX.a@Avalanche** [0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef](https://snowtrace.io/token/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef)
+- **IMX@Ethereum** [0x7b35ce522cb72e4077baeb96cb923a5529764a00](https://etherscan.io/token/0x7b35ce522cb72e4077baeb96cb923a5529764a00)
+- **IMX.m@Moonriver** [0x900f1ec5819fa087d368877cd03b265bf1802667](https://moonriver.moonscan.io/token/0x900f1ec5819fa087d368877cd03b265bf1802667)
 
 [Kusama (KSM)](https://kusama.network/)
 
@@ -122,6 +134,11 @@ Below are the tokens and corresponding smart contracts for assets currently supp
 - **OCEAN@Ethereum** [0x967da4048cd07ab37855c090aaf366e4ce1b9f48](https://etherscan.io/token/0x4917a9a03bdf9be520e0b342da8c3c8787237302)
 - **wanOCEAN@Wanchain** [0xf665E0e3E75D16466345E1129530ec28839EfaEa](https://www.wanscan.org/token/0xf665e0e3e75d16466345e1129530ec28839efaea)
 
+[Phala Network (PHA)](https://www.phala.network/en/)
+
+- **PHA@Ethereum** [0x6c5bA91642F10282b576d91922Ae6448C9d52f4E](https://etherscan.io/token/0x6c5bA91642F10282b576d91922Ae6448C9d52f4E)
+- **PHA.m@Moonriver** [0xa4dd0b5b5e83a4d9c6b4b406affb1d388df27862](https://moonriver.moonscan.io/token/0xa4dd0b5b5e83a4d9c6b4b406affb1d388df27862)
+
 [Phoenix Finance (PHX)](https://cyberfi.tech/)
 
 - **PHX@Binance** [0xac86e5f9ba48d680516df50c72928c2ec50f3025](https://bscscan.com/token/0xac86e5f9ba48d680516df50c72928c2ec50f3025)
@@ -156,6 +173,12 @@ Below are the tokens and corresponding smart contracts for assets currently supp
 
 - **SUSHI@Ethereum** [0x6b3595068778dd592e39a122f4f5a5cf09c90fe2](https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2)
 - **wanSUSHI@Wanchain** [0x9B6863f6Ab2047069aD1CD15fFf8C45Af637D67c](https://wanscan.org/token/0x9b6863f6ab2047069ad1cd15fff8c45af637d67c)
+
+[Templar Finance (TEM)](https://templar.finance/)
+
+- **TEM@Binance** [0x19e6BfC1A6e4B042Fb20531244D47E252445df01](https://bscscan.com/token/0x19e6BfC1A6e4B042Fb20531244D47E252445df01)
+- **TEM.m@Moonriver** [0x10acbe3b9e6a2ff7f341e5cbf4b6617741ff44aa](https://moonriver.moonscan.io/token/0x10acbe3b9e6a2ff7f341e5cbf4b6617741ff44aa)
+- **TEM@Moonriver** [0xd86e3f7b2ff4e803f90c799d702955003bca9875](https://moonriver.moonscan.io/token/0xd86e3f7b2ff4e803f90c799d702955003bca9875)
 
 [Tether USD (USDT)](https://tether.to/)
 

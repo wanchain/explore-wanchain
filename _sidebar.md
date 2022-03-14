@@ -61,14 +61,15 @@
   - [Multichain Bridges](wanbridge/multichain-bridges.md)
 
 - Dapps
-  - [Instant Cross](dapps/instantcross.md)
-  - [WanSwap](dapps/wanswap.md)
-  - [WanLend](dapps/wanlend.md)
-  - [ZooKeeper](dapps/zookeeper.md)
-  - [Jack's Pot](dapps/jackspot.md)
-  - [WanFarm](dapps/wanfarm.md)
-  - [WanDex](dapps/wandex.md)
   - [Dark Forest](dapps/darkforest.md)
+  - [Instant Cross](dapps/instantcross.md)
+  - [Jack's Pot](dapps/jackspot.md)
+  - [OpenZoo](dapps/OpenZoo.md)
+  - [WanDex](dapps/wandex.md)
+  - [WanFarm](dapps/wanfarm.md)
+  - [WanLend](dapps/wanlend.md)
+  - [WanSwap](dapps/wanswap.md)
+  - [ZooKeeper](dapps/zookeeper.md)
 
 - Testnet 
   - [Testnet Node Setup](staking-testnet/node-setup-testnet.md)

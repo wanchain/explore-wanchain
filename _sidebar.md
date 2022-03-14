@@ -64,7 +64,7 @@
   - [Instant Cross](dapps/instantcross.md)
   - [Jack's Pot](dapps/jackspot.md)
   - [OpenZoo](dapps/openzoo.md)
-  - [Phoenix Finance](phoenixfinance.md)
+  - [Phoenix Finance](dapps/phoenixfinance.md)
   - [WanDex](dapps/wandex.md)
   - [WanFarm](dapps/wanfarm.md)
   - [WanLend](dapps/wanlend.md)

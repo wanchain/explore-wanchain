@@ -31,7 +31,6 @@
   - [Storeman System](technology/storeman.md "Wanchain - Storeman System")
   - [Galaxy Consensus](technology/galaxy-consensus.md "Wanchain - Galaxy Consensus") 
   
-  
 - Guides
   - [Cross-chain transfer BTC to wanBTC](guides/btccrosschain.md) 
   - [Cross-chain transfer EOS to wanEOS](guides/guideeos.md)
@@ -65,6 +64,7 @@
   - [Instant Cross](dapps/instantcross.md)
   - [Jack's Pot](dapps/jackspot.md)
   - [OpenZoo](dapps/openzoo.md)
+  - [Phoenix Finance](phoenixfinance.md)
   - [WanDex](dapps/wandex.md)
   - [WanFarm](dapps/wanfarm.md)
   - [WanLend](dapps/wanlend.md)

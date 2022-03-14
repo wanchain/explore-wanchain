@@ -2,7 +2,7 @@
 
 ![](https://docs.openzoo.io/openzoohome3.png)
 
-_All materials relating to OpenZoo.io was reproduced from [docs.openzoo.io](https://docs.openzoo.io/) with permission on 2022/03/14._
+_All materials relating to OpenZoo.io were reproduced from [docs.openzoo.io](https://docs.openzoo.io/) with permission on 2022/03/14._
 
 ## What is OpenZoo?
 

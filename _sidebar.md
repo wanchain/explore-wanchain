@@ -64,7 +64,7 @@
   - [Dark Forest](dapps/darkforest.md)
   - [Instant Cross](dapps/instantcross.md)
   - [Jack's Pot](dapps/jackspot.md)
-  - [OpenZoo](dapps/OpenZoo.md)
+  - [OpenZoo](dapps/openzoo.md)
   - [WanDex](dapps/wandex.md)
   - [WanFarm](dapps/wanfarm.md)
   - [WanLend](dapps/wanlend.md)

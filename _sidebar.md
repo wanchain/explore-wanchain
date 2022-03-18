@@ -32,8 +32,8 @@
   - [Galaxy Consensus](technology/galaxy-consensus.md "Wanchain - Galaxy Consensus") 
   
 - Guides
+  - [Bridge Node Delegation Guide](guides/delegatebridge.md)
   - [Cross-chain transfer BTC to wanBTC](guides/btccrosschain.md) 
-  - [Cross-chain transfer EOS to wanEOS](guides/guideeos.md)
   
 - Staking
   - [Important Terms and Parameters](staking/parameters.md)

@@ -64,7 +64,7 @@ Congratulations! Your wallet has now been set up successfully set up!
 
 ![](https://miro.medium.com/max/1400/1*E0imHg1oa00DL_dPA1p8pQ.png)
 
-## 2. Fund your $WAN account
+## Step 2. Fund your $WAN account
 
 ### View your $WAN account overview
 
@@ -82,7 +82,7 @@ From your $WAN account overview, you can edit your account name, create more wal
 
 ![](https://miro.medium.com/max/1400/1*ZLzcuqhr76Nmo4mWxt7N1w.png)
 
-## 3. Delegating $WAN to a Bridge (Storeman) Node
+## Step 3. Delegating $WAN to a Bridge (Storeman) Node
 
 ### View your Delegation overview
 
@@ -120,7 +120,7 @@ You should now see your staked $WAN listed in the “**My Stake**” box. Your c
 
 As shown in the screenshot above, you can click “**Top-up**” to add more $WAN to your delegation. Click “**Exit**” to withdraw your staked $WAN and “**Claim**” to claim your $WAN rewards. You can also click “**New Delegation**” if you wish to start a new delegation to a different Bride (Storeman) Node.
 
-## Some other important details
+### Other important details
 
 - You can claim your $WAN rewards every day.
 - You can **top up** your stake at **any time** during the Bridge (Storeman) Group work cycle.
@@ -128,7 +128,7 @@ As shown in the screenshot above, you can click “**Top-up**” to add more $WA
 - If you want to initiate the withdrawal of your original stake, you need to click “**Exit**” before the end of the current calendar month. Your $WAN will then be claimable once the current Bridge (Storeman) Node Group work cycle is finished (around the 10th day of the following month). If you do not click “Exit”, your staked WAN will simply continue to earn rewards.
 Once you have clicked “Exit” and waited for the current Bridge (Storeman) Node Group work cycle to finish, you need to click “**Claim**” for your $WAN to be returned to your original wallet.
 
-## Need help?
+### Need help?
 
 Join our [Telegram Tech Support](https://t.me/WanchainSupport) channel. Our support team is standing by and happy to help!
 

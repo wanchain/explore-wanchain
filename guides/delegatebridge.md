@@ -12,15 +12,15 @@ Delegating to a Bridge Node is very safe; your $WAN never leaves your custody. W
 
 ## Step 1. Install the Wanchain Desktop Wallet
 
-You need to [install the Wanchain Desktop Wallet](https://www.wanchain.org/getstarted/). Be sure to download and install the right version for your operating system.
+You need to [install the Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet). Be sure to download and install the right version for your operating system.
 
-![](https://miro.medium.com/max/1400/1*6X4z79K3DJF_SoPuQZNoyw.png)
+![](https://miro.medium.com/max/1400/1*8dPBG1ISANr4pEckHRfK-g.png)
 
 ### Click the Windows, Mac, or Linux button.
 
-This will bring up the terms and conditions screen.
+This will initiate a download.
 
-![](https://miro.medium.com/max/1400/1*UnwLlq_ohElef3VGQ9B0Iw.png)
+![](https://miro.medium.com/max/1400/1*NiOShfTRJQC0lZOBq0Juhw.png)
 
 ### Click “OK” to begin the download then initiate the installation.
 

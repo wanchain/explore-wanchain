@@ -1,6 +1,6 @@
 # How to delegate $WAN to a Wanchain Bridge Node
 
-An in-depth guide outlining how to delegate your $WAN to a Wanchain Bridge (Storeman) Node to earn rewards with no risk of impermanent loss! This guide will focus on [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet).
+An in-depth guide outlining how to delegate your $WAN to a Wanchain Bridge (Storeman) Node to earn rewards with no risk of impermanent loss! This guide will focus on the [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet).
 
 ![](https://miro.medium.com/max/1400/1*QtSz90QrKkET2Sf6sx2g3Q.png)
 
@@ -24,7 +24,7 @@ This will initiate a download.
 
 ### Click “OK” to begin the download then initiate the installation.
 
-Be sure to carefully read and accept the terms and conditions
+Be sure to follow the directions as prompted.
 
 ### Select an option then click “Next”.
 

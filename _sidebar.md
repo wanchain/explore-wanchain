@@ -33,6 +33,7 @@
   
 - Guides
   - [Bridge Node Delegation Guide](guides/delegatebridge.md)
+  - [PoS Validator Node Delegation Guide](guides/delegatevalidator.md)
   - [Cross-chain transfer BTC to wanBTC](guides/btccrosschain.md) 
   
 - Staking

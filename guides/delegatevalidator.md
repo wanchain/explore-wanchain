@@ -70,13 +70,13 @@ When launching the Wanchain desktop wallet, you are immediately directed to the 
 
 ![](https://miro.medium.com/max/1400/1*8fqXjMmHzs_QCdTl7PJBXA.png)
 
-### View your $WAN account overview
+### View your $WAN account overview.
 
 Use the menu on the left to navigate to **Wallet → WAN → Wanchain**, as in the screenshot below.
 
 ![](https://miro.medium.com/max/1400/1*C2amvB_Gt19IJuy1Nl43Hw.png)
 
-### Fund your account with some $WAN
+### Fund your account with some $WAN.
 
 From your $WAN account overview, you can edit your account name, create more wallets, copy your public address and send $WAN to other addresses.
 
@@ -88,7 +88,7 @@ From your $WAN account overview, you can edit your account name, create more wal
 
 ## Step 3: Delegating $WAN to a PoS Validator Node
 
-### View your Delegation overview
+### View your Delegation overview.
 
 Once you have deposited some $WAN in your address, use the menus on the left to navigate to **Galaxy PoS → Delegation**, as seen in the screenshot below.
 

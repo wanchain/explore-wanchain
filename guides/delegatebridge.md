@@ -66,13 +66,13 @@ Congratulations! Your wallet has now been set up successfully set up!
 
 ## Step 2. Fund your $WAN account
 
-### View your $WAN account overview
+### View your $WAN account overview.
 
 Use the menu on the left to navigate to **Wallet → WAN → Wanchain**, as in the screenshot below.
 
 ![](https://miro.medium.com/max/1400/1*C2amvB_Gt19IJuy1Nl43Hw.png)
 
-### Fund your account with some $WAN
+### Fund your account with some $WAN.
 
 From your $WAN account overview, you can edit your account name, create more wallets, copy your public address and send $WAN to other addresses.
 
@@ -84,7 +84,7 @@ From your $WAN account overview, you can edit your account name, create more wal
 
 ## Step 3. Delegating $WAN to a Bridge (Storeman) Node
 
-### View your Delegation overview
+### View your Delegation overview.
 
 Once you have deposited some $WAN on your address, use the menu on the left to navigate to **Storeman → Delegation**, as in the screenshot below.
 

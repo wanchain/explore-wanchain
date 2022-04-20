@@ -51,7 +51,17 @@ sudo docker logs -f gwan
 
 #### 2) Register validator from wallet
 
-Next, you can complete the validator registration behavior through the web based [MyWanWallet](https://mywanwallet.io/).
+Next, you can complete the validator registration behavior through the web based WanWallet Desktop or [MyWanWallet](https://mywanwallet.com/).
+
+**WanWallet Desktop Steps:**
+
+![](/media/_1.png)
+
+![](/media/_2.png)
+
+![](/media/_3.png)
+
+**MyWanWallet Steps**
 
 When registering in MyWanWallet, make certain to select the 'WAN Testnet' network in the upper right corner.  
 
@@ -153,7 +163,7 @@ The validator registration can be done visually using the community-developed [m
 
 **!!!WARNING!!!**
 
-In order to protect the security of the account, please do not enable the "--rpc" parameter when using script to register. Please verify before continue. (Recommended to use the GUI wallet for registration)
+In order to protect the security of the account, please do not enable the "--http" parameter when using script to register. Please verify before continue. (Recommended to use the GUI wallet for registration)
 
 Create a script file in path: `/home/YourUserName/.wanchain/validatorRegister.js`
 

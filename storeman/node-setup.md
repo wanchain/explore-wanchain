@@ -218,7 +218,8 @@ Restart Service
 If there is something wrong with your node, try to restart your service
 
 ```
-do docker exec -it openstoreman_mainnet pm2 restart 2
+cd ~/osm/
+./startStoremanV5.sh
 ```
 
 ## 4 Storeman Group Running Period

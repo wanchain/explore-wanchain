@@ -144,6 +144,43 @@ Currently the Ledger hardware wallet is supported. Follow the on screen instruct
 
 ![](media/wan_wallet_11.png)
 
+## Privacy Transaction
+Privacy transactions on Wanchain are a way for a user to send WAN to another user without specifying who is the recipient. With a privacy transaction the world can see that a user made a transaction, and upon a deeper inspection of the transaction can see how much WAN was sent in the transaction, but the world cannot see who the recipient will be. Privacy transactions are carried out on Wanchain by way of a smart contract built into the protocol.
+
+Allowed amounts for privacy transactions:
+- 10 WAN
+- 20 WAN
+- 50 WAN
+- 100 WAN
+- 200 WAN
+- 500 WAN
+- 1000 WAN
+- 5000 WAN
+- 50000 WAN
+
+When locking funds into the privacy contract, a user can thus only lock an amount in the list above. Likewise, a user cannot redeem partial amounts, but must redeem the full amount that was locked to the one-time address.
+
+Go to **Wallet** -> **WAN** -> **@Wanchain**, and choose the WAN address that you want to receive WAN with privacy transaction method. Click the arrow to show a "long address" accordingly, and copy this long address.
+
+![](media/wan_wallet_40.jpeg)
+
+Choose your sender address, and click **Send**. Paste your long address to the To row. In this case, the **Transaction Mode** will automatically change to **Private Transaction**. Meanwhile, enter the **amount** and select the **Fee**. Click **Next**.
+
+![](media/wan_wallet_41.jpeg)
+
+Review the Confirm Transaction window, and click Send.
+
+![](media/wan_wallet_42.jpeg)
+
+After around 1 minute, you will receive WAN in the recipient's long address. Click the arrow on the right and then click the button **Redeem**.
+
+![](media/wan_wallet_43.jpeg)
+
+After around half a minute, you will finally receive WAN in your recipient's ordinary address.
+
+**Note: Make sure that both of your sender address and recipient address has enough WAN for the gas fees.**
+
+
 ## DApp Store
 
 [Video guide](https://youtu.be/dMpabWAR-iw)

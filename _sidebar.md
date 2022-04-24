@@ -31,10 +31,11 @@
   - [Storeman System](technology/storeman.md "Wanchain - Storeman System")
   - [Galaxy Consensus](technology/galaxy-consensus.md "Wanchain - Galaxy Consensus") 
   
-  
 - Guides
+  - [Bridge Node Delegation Guide](guides/delegatebridge.md)
+  - [PoS Validator Node Delegation Guide](guides/delegatevalidator.md)
+  - [Crosschain Transaction Guide (EVM)](guides/crosschainEVM.md)
   - [Cross-chain transfer BTC to wanBTC](guides/btccrosschain.md) 
-  - [Cross-chain transfer EOS to wanEOS](guides/guideeos.md)
   
 - Staking
   - [Important Terms and Parameters](staking/parameters.md)
@@ -61,14 +62,16 @@
   - [Multichain Bridges](wanbridge/multichain-bridges.md)
 
 - Dapps
-  - [Instant Cross](dapps/instantcross.md)
-  - [WanSwap](dapps/wanswap.md)
-  - [WanLend](dapps/wanlend.md)
-  - [ZooKeeper](dapps/zookeeper.md)
-  - [Jack's Pot](dapps/jackspot.md)
-  - [WanFarm](dapps/wanfarm.md)
-  - [WanDex](dapps/wandex.md)
   - [Dark Forest](dapps/darkforest.md)
+  - [Instant Cross](dapps/instantcross.md)
+  - [Jack's Pot](dapps/jackspot.md)
+  - [OpenZoo](dapps/openzoo.md)
+  - [Phoenix Finance](dapps/phoenixfinance.md)
+  - [WanDex](dapps/wandex.md)
+  - [WanFarm](dapps/wanfarm.md)
+  - [WanLend](dapps/wanlend.md)
+  - [WanSwap](dapps/wanswap.md)
+  - [ZooKeeper](dapps/zookeeper.md)
 
 - Testnet 
   - [Testnet Node Setup](staking-testnet/node-setup-testnet.md)

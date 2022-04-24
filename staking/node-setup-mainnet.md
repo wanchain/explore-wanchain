@@ -53,7 +53,7 @@ You must fund your validator address with a small amount of WAN in order to pay 
 
 ## Node Registration
 
-You can register your node using the officia [Wan Wallet](https://github.com/wanchain/wan-wallet-desktop/releases).
+You can register your node using the official [Wan Wallet](https://github.com/wanchain/wan-wallet-desktop/releases).
 
 1. If this is the first time you run a light wallet, you will be prompted to create and back up your mnemonic phrase. Please **properly back up the mnemonic**, as it is the ONLY way to recover your wallet!
 
@@ -63,7 +63,7 @@ You can register your node using the officia [Wan Wallet](https://github.com/wan
 
 1. After registering successfully, you can view the validator address just registered in the validator list on the [WanScan](https://wanscan.org/) website. (same as the address backed up above)
 
-1. To update your validator display information on WanScan.org, fill in this [form](https://forms.office.com/r/EGENyXzyHU)
+1. To update your validator display information on WanScan.org, fill in this [form](https://forms.office.com/r/EGENyXzyHU).
 
 
 ## Switching Node to a New Server

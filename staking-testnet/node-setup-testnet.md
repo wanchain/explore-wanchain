@@ -16,6 +16,7 @@ Check the network status at: [http://testnet.wanstats.io/](http://testnet.wansta
   - CPU: 4
   - RAM:16G
   - Disk 256G
+- Open Firewall Ports 17717 for UDP/TCP
   
 *For manual setup you also need:*
 - [Docker](https://www.docker.com/)  

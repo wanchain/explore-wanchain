@@ -51,7 +51,7 @@ sudo docker logs -f gwan
 
 #### 2) Register validator from wallet
 
-Next, you can complete the validator registration behavior through the web based WanWallet Desktop or [MyWanWallet](https://mywanwallet.com/).
+Next, you can complete the validator registration behavior through the web based [WanWallet Desktop 1.5.7-beta](https://github.com/wanchain/wan-wallet-desktop/releases) or [MyWanWallet](https://mywanwallet.com/).
 
 **WanWallet Desktop Steps:**
 

@@ -124,9 +124,9 @@ $ exit
 
 **Step 2:** Start GWAN with Docker and create account:
 ```bash
-$ docker pull wanchain/client-go:3.0.0-beta.9
+$ docker pull wanchain/client-go:3.0.0-beta.12
 
-$ docker run -d -v /home/YourUserName/.wanchain:/root/.wanchain wanchain/client-go:3.0.0-beta.9 /bin/gwan --testnet
+$ docker run -d -v /home/YourUserName/.wanchain:/root/.wanchain wanchain/client-go:3.0.0-beta.12 /bin/gwan --testnet
 
 YourContainerID
 
@@ -237,7 +237,7 @@ $ docker exec -it YourContainerID /bin/gwan attach .wanchain/testnet/gwan.ipc
 
 $ docker stop YourContainerID
 
-$ docker run -d -p 17717:17717 -p 17717:17717/udp -v /home/YourUserName/.wanchain:/root/.wanchain wanchain/client-go:3.0.0-beta.9 /bin/gwan --testnet --etherbase "YourAccountAddress" --unlock "YourAccountAddress" --password /root/.wanchain/pw.txt --mine --minerthreads=1 --ethstats your-node-name:admin@testnet.wanstats.io --syncmode=full --snapshot=false --gcmode=archive 
+$ docker run -d -p 17717:17717 -p 17717:17717/udp -v /home/YourUserName/.wanchain:/root/.wanchain wanchain/client-go:3.0.0-beta.12 /bin/gwan --testnet --etherbase "YourAccountAddress" --unlock "YourAccountAddress" --password /root/.wanchain/pw.txt --mine --minerthreads=1 --ethstats your-node-name:admin@testnet.wanstats.io --syncmode=full --snapshot=false --gcmode=archive 
 
 ```
 

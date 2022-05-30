@@ -10,6 +10,48 @@ Here are the Wanchain products which support WAN by using Trezor:
 - [MetaMask](https://metamask.io/)
 - [MyWanWallet](https://mywanwallet.com)
 
+
+## Workarounds for Trezor Model T connecting to WanWallet Desktop
+
+WanWallet desktop wallet currently does not support Trezor Model T with firmware version V2.4.3 and above. It should be noted that this is only for Trezor Model T series hardware wallets. For other Trezor series wallets, the latest version of firmware is compatible with WanWallet Desktop.
+
+There are currently two workarounds to solve this issue: one is to switch to Prompt mode in Trezor Suite; the other is to downgrade the firmware version.
+
+### Workaround 1: Switch to Prompt mode in Trezor Suite
+
+Download and install Trezor Suite: https://suite.trezor.io/
+
+Connect the Trezor Model T to the Trezor Suite, and check the firmware version.
+
+Click the **Settings** button in the upper right corner, and click **Device** -> **Edit**
+
+![](media/trezormww13.jpg)
+
+
+Select **Prompt** in the pop-up window and click **Confirm**. (Note that the Prompt mode will lower the level of your Trezor Model T.)
+
+![](media/trezormww14.jpg)
+
+Now, WanWallet Desktop can send transactions via Trezor Model T.
+
+**It should be noted that this switch from Strict mode to Prompt mode will weaken the security level of the hardware wallet, causing potential and unknown risks. Therefore, when you complete transactions on the Wanchain, you must immediately switch it back to the Strict mode. You should make your own judgments and bear any risks that may occur in this process.**
+
+### Workaround 2: Downgrade the firmware version
+
+Download and install Trezor Suite: https://suite.trezor.io/
+
+Connect the Trezor Model T to the Trezor Suite, and check the firmware version.
+
+Currently, WanWallet Desktop supports firmware version 2.4.2 and below.
+
+![](media/trezormww15.jpg)
+
+About how to downgrade the firmware version to 2.4.2 and below, the Trezor official guide is given for reference:
+https://wiki.trezor.io/Installing_custom_firmware_on_Trezor_Model_T#Trezor_Model_T_firmware_downgrade_options
+
+
+
+
 ## Step by Step Guide in MyWanWallet
 
 *DISCLAIMER: MyWanWallet.com is a Wanchain community project. The Wanchain Foundation does not maintain the project or make any guarantees about its security or functionality, and takes no responsibility for any loss or damages incurred through use of MyWanWallet.com.*
@@ -79,3 +121,5 @@ Here are the Wanchain products which support WAN by using Trezor:
 20. Finally a pop-up window will display all of your transaction details. Please check all the details to make sure they are correct, and click the green button with the text "Yes, I am sure! Make transaction." to complete your transaction.
 
   ![](media/trezormww12.jpg)
+  
+

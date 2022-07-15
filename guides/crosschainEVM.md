@@ -75,7 +75,7 @@ Before completing decentralised crosschain transactions using the [WanBridge web
 
 [Download Metamask here](https://metamask.io/).
 
-### Step 2: Visit [https://bridge.wanchain.org/](https://bridge.wanchain.org/) and connect your wallet.
+### Step 2: Visit the [WanBridge web portal](https://bridge.wanchain.org/) and connect your wallet.
 
 Click “**Connect to Wallet**”.
 

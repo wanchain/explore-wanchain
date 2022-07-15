@@ -19,7 +19,7 @@ Before completing decentralised crosschain transactions using the [WanBridge web
 
 [Download Metamask here](https://metamask.io/).
 
-### Step 2: Visit https://bridge.wanchain.org/ and connect your wallet.
+### Step 2: Visit the WanBridge web portal and connect your wallet.
 
 Click “**Connect to Wallet**”.
 
@@ -71,7 +71,7 @@ Once your crosschain transaction is complete, you’ll see your $LTC balance on 
 
 Before completing decentralised crosschain transactions using the [WanBridge web portal](https://bridge.wanchain.org/#/), you need to ensure you have access to the correct wallet(s). You must have wallets for each network involved in the crosschain transaction. When transferring from networks that do not support native smart contracts, you will be instructed to manually send a transaction to initiate the crosschain transaction. It is highly recommended to only use a wallet that you own and control.
 
-### Step 2: Visit https://bridge.wanchain.org/.
+### Step 2: Visit the WanBridge web portal.
 
 ![](https://miro.medium.com/max/1400/1*FwK6x7Dndr5pse8hXz_0Ww.png)
 

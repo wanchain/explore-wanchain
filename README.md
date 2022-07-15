@@ -66,7 +66,7 @@ For example, if a user wants to move 1 USDT from Polygon to Arbitrum, 1 USDT is 
 
 NFT bridges are customised to each project, though they more closely resemble the lock-mint-burn-unlock method to bridging. All NFT IDs and attributes are transferred from one blockchain to another.
 
-## Wanchain 2022
+## Roadmap: Wanchain 2022
 
 - Upgrade Gwan EVM to support latest EVM Opcodes, gas fees and all Ethereum-based dapps
 - Migrate Galaxy Consensus to the new Gwan EVM

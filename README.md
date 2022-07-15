@@ -76,7 +76,7 @@ NFT bridges are customised to each project, though they more closely resemble th
 
 ## Completed Milestones
 
-## Wanchain 2021
+### Wanchain 2021
 
 - Wanchain launches Universal Multichain Bridges With Shared Staking Assets
 - Wanchain becomes EVM compatable

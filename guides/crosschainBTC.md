@@ -149,7 +149,7 @@ If this is your first time using the [WanBridge web portal](https://bridge.wanch
 
 #### Step 3: Initiate a crosschain transaction to move your $BTC from Wanchain to Bitcoin.
 
-Select “**Bitcoin**” from the drop-down menu. Then, choose “**Wanchain**” and “**Bitcoin**” as your _From_ and _To_ networks, respectively. Finally, input your destination address in the “**Recipient**” field as well as the amount of $BTC you want to send crosschain. Click “**Next**”.
+Select “**BTC**” from the drop-down menu. Then, choose “**Wanchain**” and “**Bitcoin**” as your _From_ and _To_ networks, respectively. Finally, input your destination address in the “**Recipient**” field as well as the amount of $BTC you want to send crosschain. Click “**Next**”.
 
 ![](https://miro.medium.com/max/1400/1*nADtY0h5Wwk2qwD8KIPNZw.png)
 

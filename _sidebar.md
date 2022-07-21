@@ -34,9 +34,9 @@
 - Guides
   - [Bridge Node Delegation Guide](guides/delegatebridge.md)
   - [PoS Validator Node Delegation Guide](guides/delegatevalidator.md)
+  - [Crosschain Transaction Guide (BTC)](guides/crosschainBTC.md)
   - [Crosschain Transaction Guide (EVM)](guides/crosschainEVM.md)
   - [Crosschain Transaction Guide (OKC)](guides/crosschainOKC.md)
-  - [Crosschain transfer BTC to wanBTC](guides/btccrosschain.md)
   - [Crosschain Transaction Guide (Litecoin)](guides/crosschainLTC.md)
   
 - Staking

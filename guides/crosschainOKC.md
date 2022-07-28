@@ -2,12 +2,12 @@
 
 An in-depth guide outlining how to complete OKC crosschain transactions using the [WanBridge web portal](https://bridge.wanchain.org/#/).
 
-![](https://miro.medium.com/max/1400/1*4posG-gbfrGIPm2C1LbRNw.jpeg)
+![](https://miro.medium.com/max/1400/1*6y1OJvwbhFUV3pBcnby9Zw.jpeg)
 
 This guide will demonstrate two separate crosschain transactions:
 
-1. $WAN from Wanchain to OKC using the [WanBridge web portal](https://bridge.wanchain.org/#/)
-2. $OKT from OKC to Avalanche using the [WanBridge web portal](https://bridge.wanchain.org/#/)
+1. $WAN from Wanchain to OKC using the [WanBridge web portal](https://bridge.wanchain.org/#/) with Metamask
+2. $OKT from OKC to Avalanche using the [WanBridge web portal](https://bridge.wanchain.org/#/) with OKX Wallet
 
 > Note: All crosschain transactions between EVM networks follow the same process. This includes all supported EVM networks including Wanchain, Ethereum, Avalanche, BNB Chain, Fantom, Moonriver, Moonbeam, etc.
 

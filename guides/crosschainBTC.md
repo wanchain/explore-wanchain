@@ -2,13 +2,13 @@
 
 An in-depth guide outlining how to complete a Bitcoin crosschain transaction using both the [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet) and the [WanBridge web portal](https://bridge.wanchain.org/#/).
 
-![](https://miro.medium.com/max/700/1*l3N1y4-F_4wn3Lj7FDaAsQ.jpeg)
+![](https://miro.medium.com/max/1400/1*U_FTKtKYDb2FfB-d9H_nrw.jpeg)
 
 This guide will demonstrate four separate crosschain transactions:
 
 1. $BTC from Wanchain to Bitcoin using the [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet)
 2. $BTC from Bitcoin to Wanchain using the [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet)
-3. $BTC from Wanchain to Bitcoin using the [WanBridge web portal](https://bridge.wanchain.org/#/)
+3. $BTC from Wanchain to Bitcoin using the [WanBridge web portal](https://bridge.wanchain.org/#/) with Metamask
 4. $BTC from Bitcoin to Wanchain using the [WanBridge web portal](https://bridge.wanchain.org/#/)
 
 ## Crosschain transactions using the Wanchain Desktop Wallet

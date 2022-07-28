@@ -65,7 +65,7 @@ While your crosschain transaction is processing, the status will change three ti
 
 ### Step 5: Confirm the receipt of your funds. Your crosschain transaction is complete!
 
-Once your crosschain transaction is complete, you’ll see your $WAN balance on Wanchain (called $WANw) and the crosschain transaction status change to “**success**”.
+Once your crosschain transaction is complete, you’ll see your $WAN balance on OKC (called $WANw) and the crosschain transaction status change to “**success**”.
 
 ![](https://miro.medium.com/max/1400/1*7FMALEMu90rarwrh-jZmuQ.png)
 

@@ -1,4 +1,4 @@
-# How to complete a crosschain transaction (Litecoin)
+# How to complete a crosschain transaction (LTC)
 
 An in-depth guide outlining how to complete a LTC crosschain transaction using the [WanBridge web portal](https://bridge.wanchain.org/#/).
 

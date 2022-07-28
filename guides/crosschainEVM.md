@@ -2,12 +2,12 @@
 
 An in-depth guide outlining how to complete a crosschain transaction between EVM-compatible networks using both the [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet) and the [WanBridge web portal](https://bridge.wanchain.org/#/).
 
-![](https://miro.medium.com/max/1400/1*63H5Pp82YHyDnnQkxuDiLA.jpeg)
+![](https://miro.medium.com/max/1400/1*G2WW6yK4hekgw_anYAow5w.jpeg)
 
 This guide will demonstrate two separate crosschain transactions:
 
 1. $ETH from Wanchain to Ethereum using the [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet)
-2. $AVAX from Avalanche to Wanchain using the [WanBridge web portal](https://bridge.wanchain.org/#/)
+2. $AVAX from Avalanche to Wanchain using the [WanBridge web portal](https://bridge.wanchain.org/#/) with Metamask
 
 > Note: All crosschain transactions between EVM networks follow the same process. This includes all supported EVM networks including Wanchain, Ethereum, Avalanche, BNB Chain, Fantom, Moonriver, Moonbeam, etc.
 

@@ -2,11 +2,11 @@
 
 An in-depth guide outlining how to complete a LTC crosschain transaction using the [WanBridge web portal](https://bridge.wanchain.org/#/).
 
-![](https://miro.medium.com/max/1400/1*soOu1gD-82Vw_obpj5z9Yg.jpeg)
+![](https://miro.medium.com/max/1400/1*ULOYMmxzw8MGHMuiJ2VzjQ.jpeg)
 
 This guide will demonstrate two separate crosschain transactions:
 
-1. $LTC from Wanchain to Litecoin using the [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet)
+1. $LTC from Wanchain to Litecoin using the [Wanchain Desktop Wallet](https://www.wanchain.org/wanwallet) with Metamask
 2. $LTC from Litecoin to Wanchain using the [WanBridge web portal](https://bridge.wanchain.org/#/)
 
 > Note: All crosschain transactions between EVM networks follow the same process. This includes all supported EVM networks including Wanchain, Ethereum, Avalanche, BNB Chain, Fantom, Moonriver, Moonbeam, etc.

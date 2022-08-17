@@ -39,6 +39,7 @@
   - [Crosschain Transaction Guide (EVM)](guides/crosschainEVM.md)
   - [Crosschain Transaction Guide (LTC)](guides/crosschainLTC.md)
   - [Crosschain Transaction Guide (OKC)](guides/crosschainOKC.md)
+  - [Crosschain Transaction Guide (XRP)](guides/crosschainXRP.md)
   
 - Staking
   - [Important Terms and Parameters](staking/parameters.md)

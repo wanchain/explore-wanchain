@@ -2,11 +2,11 @@
 
 ## Papers
 
-- [White Paper](https://www.wanchain.org/files/Wanchain_White_Paper_EN.pdf)  
+- [White Paper](https://www.wanchain.org/_files/ugd/9296c5_0d623032c67b4e2380e14452ec02a9e4.pdf)  
 - [Yellow Paper](https://drive.google.com/file/d/1rJMXDBYk3CX0T_osL2HUC6oBIDM1IRgQ/view?usp=sharing) 
 - [Commercial Paper](https://drive.google.com/file/d/1Dr1H1796hx8OonxuNUcDrXDehECgkF81/view?usp=sharing)
-- [Galaxy Consensus Paper](https://www.wanchain.org/files/Galaxy_Consensus_Paper_EN.pdf)
-- [Layer 2 Light Paper](https://www.wanchain.org/blog/x-rollups-wanchain-layer2-solution-for-ethereum/)
+- [Galaxy Consensus Paper](https://www.wanchain.org/_files/ugd/9296c5_5205d584ee594e879d4b8b58048b6fac.pdf)
+- [Layer 2 Light Paper](https://www.wanchain.org/_files/ugd/9296c5_5378924e17aa4db18dfce3c26b1daffb.pdf)
 
 
 ## Products

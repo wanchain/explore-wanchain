@@ -204,7 +204,9 @@ Status of **online** and restart times of **0** represent normal status.
 Open mpc console through ipc, and check the number of connected MPC nodes in console:
 
 ```
-sudo docker exec -it openstoreman_mainnet ./schnorrmpc/bin/schnorrmpc attach ./schnorrmpc/data/gwan.ipcadmin.peers.length
+sudo docker exec -it openstoreman_mainnet ./schnorrmpc/bin/schnorrmpc attach ./schnorrmpc/data/gwan.ipc
+
+admin.peers.length
 ```
 
 Confirm the returned peer node information, which indicates the current number of MPC node connections. It should be 1 or 21. If the number is abnormal, please contact Wanchain techsupport team.

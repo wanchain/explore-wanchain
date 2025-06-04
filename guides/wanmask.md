@@ -1,8 +1,3 @@
-# WanMask Guide
-
-In this guide, we will explain how to use WanMask, the browser extension wallet on Wanchain.
-
-WanMask is a free and secure browser extension that allows web3 applications to read and interact with the Wanchain blockchain. It is almost identical to MetaMask, if you are already familiar with MetaMask, you can probably skip this guide.
 
 ## How to create a wallet with WanMask?
 
